@@ -12,7 +12,6 @@ function RunInspectCode {
      Write-Output "InspectCode start " $outputPath 
 
     dotnet exec --runtimeconfig "CommandLineTools/inspectcode.unix.runtimeconfig.json" CommandLineTools/inspectcode.exe JsonApiDotNetCore.sln --no-build --output=".\my_temp" --properties:Configuration=Release --severity=WARNING --verbosity=VERBOSE -dsl=GlobalAll -dsl=GlobalPerProduct -dsl=SolutionPersonal -dsl=ProjectPersonal
-    #dotnet exec --runtimeconfig "CommandLineTools/inspectcode.unix.runtimeconfig.json" CommandLineTools/inspectcode.exe JsonApiDotNetCore.sln
     CheckLastExitCode
 
     Write-Output "InspectCode execution has completed."

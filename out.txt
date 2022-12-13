@@ -7,25 +7,25 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.39
+Time Elapsed 00:00:01.68
 JetBrains Inspect Code 2022.3 EAP 9 D
 Running on x64 OS in x64 architecture, .NET 7.0.0 under Linux 5.15.79.1-microsoft-standard-WSL2 #1 SMP Wed Nov 23 01:01:46 UTC 2022
 Reading environment variable ResetGlobalPerProductLayer (no PID suffix).
 The environment variable ResetGlobalPerProductLayer (no PID suffix) has no value.
-Reading environment variable ResetGlobalPerProductLayer_PID_000005B9 (PID-specific).
-The environment variable ResetGlobalPerProductLayer_PID_000005B9 (PID-specific) has no value.
+Reading environment variable ResetGlobalPerProductLayer_PID_00000889 (PID-specific).
+The environment variable ResetGlobalPerProductLayer_PID_00000889 (PID-specific) has no value.
 No environment variables for additional packages are set.
 PostfixTemplates created
 Created a CatalogComponentSource for container “Container: PostfixTemplates”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.PostfixTemplates" time=0ms. Total: 0.8411ms
+<Finish> "ComponentContainer.PostfixTemplates" time=0ms. Total: 0.9461ms
 <Measured> "ComponentContainer[PostfixTemplates]"  value=0ms
 <Measured> "Compose: PostfixTemplates"  time=1ms
 Creating ShellPerClientComponents container for ClientId(Host)
 ShellPerClientComponents[$ClientId(Host)] created
 Created a CatalogComponentSource for container “Container: ShellPerClientComponents[$ClientId(Host)]”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.ShellPerClientComponents[$ClientId(Host)]" time=0ms. Total: 0.0361ms
+<Finish> "ComponentContainer.ShellPerClientComponents[$ClientId(Host)]" time=0ms. Total: 0.1614ms
 <Measured> "ComponentContainer[ShellPerClientComponents[$ClientId(Host)]]"  value=0ms
-<Measured> "Compose: ShellPerClientComponents[$ClientId(Host)]"  time=0ms
+<Measured> "Compose: ShellPerClientComponents[$ClientId(Host)]"  time=1ms
 Opening database with DbOpenParams: [
  Url=/home/kaw/.local/share/JetBrains/Transient/InspectCode/v223/ShellCaches/Shell
  Subfolder=Db
@@ -33,7 +33,7 @@ Opening database with DbOpenParams: [
  OnError=ClearAndRetry
  TakeMutex=True
  OnMutextNotAcquired=OpenIndexed
- SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-12_13-12-49.825
+ SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-13_09-54-09.978
  OnValidationFail=Clear
  ExpectedVersion=2022.3 EAP 9 D:156:net222-qx-fsp-marshallers
  PolymorphicTypes=<len=6>
@@ -50,162 +50,162 @@ Shell database opened in '/home/kaw/.local/share/JetBrains/Transient/InspectCode
 Sid 2055177608: 'BuildToolsWellKnownProperties'
 ProjectModelExtensionsContainer created
 Created a CatalogComponentSource for container “Container: ProjectModelExtensionsContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.ProjectModelExtensionsContainer" time=81ms. Total: 81.1477ms
-<Measured> "ComponentContainer[ProjectModelExtensionsContainer]"  value=81ms
-<Measured> "Compose: ProjectModelExtensionsContainer"  time=81ms
+<Finish> "ComponentContainer.ProjectModelExtensionsContainer" time=22ms. Total: 22.5276ms
+<Measured> "ComponentContainer[ProjectModelExtensionsContainer]"  value=22ms
+<Measured> "Compose: ProjectModelExtensionsContainer"  time=23ms
 ProjectFileType:AppxManifest created
-<Finish> "ComponentContainer.ProjectFileType:AppxManifest" time=0ms. Total: 0.0219ms
+<Finish> "ComponentContainer.ProjectFileType:AppxManifest" time=0ms. Total: 0.0241ms
 <Measured> "ComponentContainer[ProjectFileType:AppxManifest]"  value=0ms
 <Measured> "Compose: ProjectFileType:AppxManifest"  time=0ms
 ProjectFileType:ASP created
-<Finish> "ComponentContainer.ProjectFileType:ASP" time=0ms. Total: 0.0114ms
+<Finish> "ComponentContainer.ProjectFileType:ASP" time=0ms. Total: 0.016ms
 <Measured> "ComponentContainer[ProjectFileType:ASP]"  value=0ms
 <Measured> "Compose: ProjectFileType:ASP"  time=0ms
 ProjectFileType:Asxx created
-<Finish> "ComponentContainer.ProjectFileType:Asxx" time=0ms. Total: 0.0101ms
+<Finish> "ComponentContainer.ProjectFileType:Asxx" time=0ms. Total: 0.0182ms
 <Measured> "ComponentContainer[ProjectFileType:Asxx]"  value=0ms
 <Measured> "Compose: ProjectFileType:Asxx"  time=0ms
 ProjectFileType:BuildScript created
-<Finish> "ComponentContainer.ProjectFileType:BuildScript" time=0ms. Total: 0.0118ms
+<Finish> "ComponentContainer.ProjectFileType:BuildScript" time=0ms. Total: 0.0093ms
 <Measured> "ComponentContainer[ProjectFileType:BuildScript]"  value=0ms
 <Measured> "Compose: ProjectFileType:BuildScript"  time=0ms
 ProjectFileType:CPP created
-<Finish> "ComponentContainer.ProjectFileType:CPP" time=0ms. Total: 0.0084ms
+<Finish> "ComponentContainer.ProjectFileType:CPP" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[ProjectFileType:CPP]"  value=0ms
 <Measured> "Compose: ProjectFileType:CPP"  time=0ms
 ProjectFileType:CSHARP created
-<Finish> "ComponentContainer.ProjectFileType:CSHARP" time=0ms. Total: 0.0103ms
+<Finish> "ComponentContainer.ProjectFileType:CSHARP" time=0ms. Total: 0.0081ms
 <Measured> "ComponentContainer[ProjectFileType:CSHARP]"  value=0ms
 <Measured> "Compose: ProjectFileType:CSHARP"  time=0ms
 ProjectFileType:CSS created
-<Finish> "ComponentContainer.ProjectFileType:CSS" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.ProjectFileType:CSS" time=0ms. Total: 0.0088ms
 <Measured> "ComponentContainer[ProjectFileType:CSS]"  value=0ms
 <Measured> "Compose: ProjectFileType:CSS"  time=0ms
 ProjectFileType:DTD created
-<Finish> "ComponentContainer.ProjectFileType:DTD" time=0ms. Total: 0.0081ms
+<Finish> "ComponentContainer.ProjectFileType:DTD" time=0ms. Total: 0.0077ms
 <Measured> "ComponentContainer[ProjectFileType:DTD]"  value=0ms
 <Measured> "Compose: ProjectFileType:DTD"  time=0ms
 ProjectFileType:HTML created
-<Finish> "ComponentContainer.ProjectFileType:HTML" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.ProjectFileType:HTML" time=0ms. Total: 0.0103ms
 <Measured> "ComponentContainer[ProjectFileType:HTML]"  value=0ms
 <Measured> "Compose: ProjectFileType:HTML"  time=0ms
 ProjectFileType:IL created
-<Finish> "ComponentContainer.ProjectFileType:IL" time=0ms. Total: 0.008ms
+<Finish> "ComponentContainer.ProjectFileType:IL" time=0ms. Total: 0.0079ms
 <Measured> "ComponentContainer[ProjectFileType:IL]"  value=0ms
 <Measured> "Compose: ProjectFileType:IL"  time=0ms
 ProjectFileType:JS created
-<Finish> "ComponentContainer.ProjectFileType:JS" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:JS" time=0ms. Total: 0.0086ms
+FeatureParts created
 <Measured> "ComponentContainer[ProjectFileType:JS]"  value=0ms
 <Measured> "Compose: ProjectFileType:JS"  time=0ms
 ProjectFileType:JSON created
-<Finish> "ComponentContainer.ProjectFileType:JSON" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:JSON" time=0ms. Total: 0.0078ms
+Created a CatalogComponentSource for container “Container: FeatureParts”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
 <Measured> "ComponentContainer[ProjectFileType:JSON]"  value=0ms
 <Measured> "Compose: ProjectFileType:JSON"  time=0ms
 ProjectFileType:JSX created
-<Finish> "ComponentContainer.ProjectFileType:JSX" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.ProjectFileType:JSX" time=0ms. Total: 0.0082ms
 <Measured> "ComponentContainer[ProjectFileType:JSX]"  value=0ms
 <Measured> "Compose: ProjectFileType:JSX"  time=0ms
 ProjectFileType:ANY created
-<Finish> "ComponentContainer.ProjectFileType:ANY" time=0ms. Total: 0.0071ms
+<Finish> "ComponentContainer.ProjectFileType:ANY" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:ANY]"  value=0ms
 <Measured> "Compose: ProjectFileType:ANY"  time=0ms
 ProjectFileType:MSBuild created
-<Finish> "ComponentContainer.ProjectFileType:MSBuild" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:MSBuild" time=0ms. Total: 0.0078ms
 <Measured> "ComponentContainer[ProjectFileType:MSBuild]"  value=0ms
 <Measured> "Compose: ProjectFileType:MSBuild"  time=0ms
 ProjectFileType:MSTestAccessor created
-FeatureParts created
-<Finish> "ComponentContainer.ProjectFileType:MSTestAccessor" time=0ms. Total: 0.0082ms
+<Finish> "ComponentContainer.ProjectFileType:MSTestAccessor" time=0ms. Total: 0.0095ms
 <Measured> "ComponentContainer[ProjectFileType:MSTestAccessor]"  value=0ms
 <Measured> "Compose: ProjectFileType:MSTestAccessor"  time=0ms
 ProjectFileType:NAnt created
-Created a CatalogComponentSource for container “Container: FeatureParts”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.ProjectFileType:NAnt" time=0ms. Total: 0.0126ms
+<Finish> "ComponentContainer.ProjectFileType:NAnt" time=0ms. Total: 0.0123ms
 <Measured> "ComponentContainer[ProjectFileType:NAnt]"  value=0ms
 <Measured> "Compose: ProjectFileType:NAnt"  time=0ms
 ProjectFileType:Proto created
-<Finish> "ComponentContainer.ProjectFileType:Proto" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:Proto" time=0ms. Total: 0.0078ms
 <Measured> "ComponentContainer[ProjectFileType:Proto]"  value=0ms
 <Measured> "Compose: ProjectFileType:Proto"  time=0ms
 ProjectFileType:RAZOR_COMPONENT created
-<Finish> "ComponentContainer.ProjectFileType:RAZOR_COMPONENT" time=0ms. Total: 0.0089ms
+<Finish> "ComponentContainer.ProjectFileType:RAZOR_COMPONENT" time=0ms. Total: 0.0078ms
 <Measured> "ComponentContainer[ProjectFileType:RAZOR_COMPONENT]"  value=0ms
 <Measured> "Compose: ProjectFileType:RAZOR_COMPONENT"  time=0ms
 ProjectFileType:RAZOR_CSHARP created
-<Finish> "ComponentContainer.ProjectFileType:RAZOR_CSHARP" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.ProjectFileType:RAZOR_CSHARP" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:RAZOR_CSHARP]"  value=0ms
-<Measured> "Compose: ProjectFileType:RAZOR_CSHARP"  time=0ms
+<Measured> "Compose: ProjectFileType:RAZOR_CSHARP"  time=1ms
 ProjectFileType:RAZOR created
-<Finish> "ComponentContainer.ProjectFileType:RAZOR" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.ProjectFileType:RAZOR" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[ProjectFileType:RAZOR]"  value=0ms
 <Measured> "Compose: ProjectFileType:RAZOR"  time=0ms
 ProjectFileType:RESJSON created
-<Finish> "ComponentContainer.ProjectFileType:RESJSON" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.ProjectFileType:RESJSON" time=0ms. Total: 0.0086ms
 <Measured> "ComponentContainer[ProjectFileType:RESJSON]"  value=0ms
 <Measured> "Compose: ProjectFileType:RESJSON"  time=0ms
 ProjectFileType:Resw created
-<Finish> "ComponentContainer.ProjectFileType:Resw" time=0ms. Total: 0.0095ms
+<Finish> "ComponentContainer.ProjectFileType:Resw" time=0ms. Total: 0.0109ms
 <Measured> "ComponentContainer[ProjectFileType:Resw]"  value=0ms
 <Measured> "Compose: ProjectFileType:Resw"  time=0ms
 ProjectFileType:Resx created
-<Finish> "ComponentContainer.ProjectFileType:Resx" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:Resx" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:Resx]"  value=0ms
 <Measured> "Compose: ProjectFileType:Resx"  time=0ms
 ProjectFileType:Skin created
-<Finish> "ComponentContainer.ProjectFileType:Skin" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.ProjectFileType:Skin" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:Skin]"  value=0ms
 <Measured> "Compose: ProjectFileType:Skin"  time=0ms
 ProjectFileType:TSX created
-<Finish> "ComponentContainer.ProjectFileType:TSX" time=0ms. Total: 0.0146ms
+<Finish> "ComponentContainer.ProjectFileType:TSX" time=0ms. Total: 0.0144ms
 <Measured> "ComponentContainer[ProjectFileType:TSX]"  value=0ms
 <Measured> "Compose: ProjectFileType:TSX"  time=0ms
 ProjectFileType:TS created
-<Finish> "ComponentContainer.ProjectFileType:TS" time=0ms. Total: 0.0072ms
+<Finish> "ComponentContainer.ProjectFileType:TS" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[ProjectFileType:TS]"  value=0ms
 <Measured> "Compose: ProjectFileType:TS"  time=0ms
 ProjectFileType:UNKNOWN created
-<Finish> "ComponentContainer.ProjectFileType:UNKNOWN" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.ProjectFileType:UNKNOWN" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[ProjectFileType:UNKNOWN]"  value=0ms
 <Measured> "Compose: ProjectFileType:UNKNOWN"  time=0ms
 ProjectFileType:UNKNOWN_TEXTUAL created
-<Finish> "ComponentContainer.ProjectFileType:UNKNOWN_TEXTUAL" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.ProjectFileType:UNKNOWN_TEXTUAL" time=0ms. Total: 0.0076ms
 <Measured> "ComponentContainer[ProjectFileType:UNKNOWN_TEXTUAL]"  value=0ms
 <Measured> "Compose: ProjectFileType:UNKNOWN_TEXTUAL"  time=0ms
 ProjectFileType:VBASIC created
-<Finish> "ComponentContainer.ProjectFileType:VBASIC" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.ProjectFileType:VBASIC" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[ProjectFileType:VBASIC]"  value=0ms
 <Measured> "Compose: ProjectFileType:VBASIC"  time=0ms
 ProjectFileType:VBS created
-<Finish> "ComponentContainer.ProjectFileType:VBS" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.ProjectFileType:VBS" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:VBS]"  value=0ms
 <Measured> "Compose: ProjectFileType:VBS"  time=0ms
 ProjectFileType:Web.Config created
-<Finish> "ComponentContainer.ProjectFileType:Web.Config" time=0ms. Total: 0.008ms
+<Finish> "ComponentContainer.ProjectFileType:Web.Config" time=0ms. Total: 0.0077ms
 <Measured> "ComponentContainer[ProjectFileType:Web.Config]"  value=0ms
 <Measured> "Compose: ProjectFileType:Web.Config"  time=0ms
 ProjectFileType:XAML created
-<Finish> "ComponentContainer.ProjectFileType:XAML" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.ProjectFileType:XAML" time=0ms. Total: 0.0077ms
 <Measured> "ComponentContainer[ProjectFileType:XAML]"  value=0ms
 <Measured> "Compose: ProjectFileType:XAML"  time=0ms
 ProjectFileType:XML created
-<Finish> "ComponentContainer.ProjectFileType:XML" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.ProjectFileType:XML" time=0ms. Total: 0.008ms
 <Measured> "ComponentContainer[ProjectFileType:XML]"  value=0ms
 <Measured> "Compose: ProjectFileType:XML"  time=0ms
 ProjectFileType:XSD created
-<Finish> "ComponentContainer.ProjectFileType:XSD" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.ProjectFileType:XSD" time=0ms. Total: 0.0097ms
 <Measured> "ComponentContainer[ProjectFileType:XSD]"  value=0ms
 <Measured> "Compose: ProjectFileType:XSD"  time=0ms
 ProjectFileType:BINARY created
-<Finish> "ComponentContainer.ProjectFileType:BINARY" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.ProjectFileType:BINARY" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[ProjectFileType:BINARY]"  value=0ms
 <Measured> "Compose: ProjectFileType:BINARY"  time=0ms
 ProjectFileType:Nuspec created
-<Finish> "ComponentContainer.ProjectFileType:Nuspec" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.ProjectFileType:Nuspec" time=0ms. Total: 0.0082ms
 <Measured> "ComponentContainer[ProjectFileType:Nuspec]"  value=0ms
 <Measured> "Compose: ProjectFileType:Nuspec"  time=0ms
-<Finish> "ComponentContainer.FeatureParts" time=83ms. Total: 83.8363ms
-<Measured> "ComponentContainer[FeatureParts]"  value=83ms
-<Measured> "Compose: FeatureParts"  time=84ms
+<Finish> "ComponentContainer.FeatureParts" time=37ms. Total: 38.1278ms
+<Measured> "ComponentContainer[FeatureParts]"  value=37ms
+<Measured> "Compose: FeatureParts"  time=39ms
 Boolean::IsApplicationActive: <N/A> -> True.
 On the first call to Default Settings, enumerating the default settings providers and organizing them in groupd for delayed execution.
 Done processing the list of providers on the first call to Default Settings.
@@ -234,18 +234,18 @@ Delay-executing default settings provider “JetBrains.ReSharper.Psi.Html.Settin
 Delay-executing default settings provider “JetBrains.CommandLine.InspectCode.Unattended.Settings.InspectCodeDefaultSettings, inspectcode, Version=777.0.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325” when queried for key path /Default/Environment/UserInterface/ThemedIcon/IconThemeSelection/@EntryValue.
 FeedbackPageContainer created
 Created a CatalogComponentSource for container “Container: FeedbackPageContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.FeedbackPageContainer" time=0ms. Total: 0.0268ms
+<Finish> "ComponentContainer.FeedbackPageContainer" time=0ms. Total: 0.026ms
 <Measured> "ComponentContainer[FeedbackPageContainer]"  value=0ms
 <Measured> "Compose: FeedbackPageContainer"  time=0ms
 ReportAttachmentPartsContainer created
 Created a CatalogComponentSource for container “Container: ReportAttachmentPartsContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
 SELF_PROFILING_CUSTOM_URL=<NULL>
-<Finish> "ComponentContainer.ReportAttachmentPartsContainer" time=10ms. Total: 10.0865ms
-<Measured> "ComponentContainer[ReportAttachmentPartsContainer]"  value=10ms
-<Measured> "Compose: ReportAttachmentPartsContainer"  time=10ms
+<Finish> "ComponentContainer.ReportAttachmentPartsContainer" time=11ms. Total: 11.0767ms
+<Measured> "ComponentContainer[ReportAttachmentPartsContainer]"  value=11ms
+<Measured> "Compose: ReportAttachmentPartsContainer"  time=11ms
 UserIdentificatorPartsContainer created
 Created a CatalogComponentSource for container “Container: UserIdentificatorPartsContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.UserIdentificatorPartsContainer" time=0ms. Total: 0.0127ms
+<Finish> "ComponentContainer.UserIdentificatorPartsContainer" time=0ms. Total: 0.0149ms
 <Measured> "ComponentContainer[UserIdentificatorPartsContainer]"  value=0ms
 <Measured> "Compose: UserIdentificatorPartsContainer"  time=0ms
 STV.Started `UsageDbManager` in separate thread
@@ -257,7 +257,7 @@ Opening database with DbOpenParams: [
  OnError=Null
  TakeMutex=False
  OnMutextNotAcquired=OpenIndexed
- SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-12_13-12-50.386
+ SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-13_09-54-10.502
  OnValidationFail=Clear
  ExpectedVersion=
  PolymorphicTypes=<null>]
@@ -292,284 +292,286 @@ Sid 429002406: 'BundleReferencesNameCache'
 Sid 144483022: 'AppHostTypeCache'
 Sid 1577326784: 'BundleHeaderCache'
 Sid 677005676: 'mvidToAssemblyNameRelations'
-Failed to retrieve process info: Could not find a part of the path '/proc/1397/stat'.
 NullCheckPatterns created
 Created a CatalogComponentSource for container “Container: NullCheckPatterns”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.NullCheckPatterns" time=0ms. Total: 0.8847ms
+<Finish> "ComponentContainer.NullCheckPatterns" time=0ms. Total: 0.793ms
 <Measured> "ComponentContainer[NullCheckPatterns]"  value=0ms
 <Measured> "Compose: NullCheckPatterns"  time=1ms
 PsiLanguageType:BUILD_SCRIPT created
-<Finish> "ComponentContainer.PsiLanguageType:BUILD_SCRIPT" time=0ms. Total: 0.0177ms
+<Finish> "ComponentContainer.PsiLanguageType:BUILD_SCRIPT" time=0ms. Total: 0.0292ms
 <Measured> "ComponentContainer[PsiLanguageType:BUILD_SCRIPT]"  value=0ms
-<Measured> "Compose: PsiLanguageType:BUILD_SCRIPT"  time=0ms
+<Measured> "Compose: PsiLanguageType:BUILD_SCRIPT"  time=1ms
 PsiLanguageType:NANT_BUILD_SCRIPT created
-<Finish> "ComponentContainer.PsiLanguageType:NANT_BUILD_SCRIPT" time=0ms. Total: 0.0162ms
+<Finish> "ComponentContainer.PsiLanguageType:NANT_BUILD_SCRIPT" time=0ms. Total: 0.0204ms
 <Measured> "ComponentContainer[PsiLanguageType:NANT_BUILD_SCRIPT]"  value=0ms
-<Measured> "Compose: PsiLanguageType:NANT_BUILD_SCRIPT"  time=0ms
+<Measured> "Compose: PsiLanguageType:NANT_BUILD_SCRIPT"  time=1ms
 PsiLanguageType:MSBUILD_BUILD_SCRIPT created
-<Finish> "ComponentContainer.PsiLanguageType:MSBUILD_BUILD_SCRIPT" time=0ms. Total: 0.0125ms
+<Finish> "ComponentContainer.PsiLanguageType:MSBUILD_BUILD_SCRIPT" time=0ms. Total: 0.0139ms
 <Measured> "ComponentContainer[PsiLanguageType:MSBUILD_BUILD_SCRIPT]"  value=0ms
 <Measured> "Compose: PsiLanguageType:MSBUILD_BUILD_SCRIPT"  time=0ms
 PsiLanguageType:CSHARP created
-<Finish> "ComponentContainer.PsiLanguageType:CSHARP" time=0ms. Total: 0.0107ms
+<Finish> "ComponentContainer.PsiLanguageType:CSHARP" time=0ms. Total: 0.0137ms
 <Measured> "ComponentContainer[PsiLanguageType:CSHARP]"  value=0ms
 <Measured> "Compose: PsiLanguageType:CSHARP"  time=1ms
 PsiLanguageType:CSHARP_XMLDOC created
-<Finish> "ComponentContainer.PsiLanguageType:CSHARP_XMLDOC" time=0ms. Total: 0.0102ms
+<Finish> "ComponentContainer.PsiLanguageType:CSHARP_XMLDOC" time=0ms. Total: 0.0109ms
 <Measured> "ComponentContainer[PsiLanguageType:CSHARP_XMLDOC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:CSHARP_XMLDOC"  time=0ms
 PsiLanguageType:ANY created
-<Finish> "ComponentContainer.PsiLanguageType:ANY" time=0ms. Total: 0.0089ms
+<Finish> "ComponentContainer.PsiLanguageType:ANY" time=0ms. Total: 0.0123ms
 <Measured> "ComponentContainer[PsiLanguageType:ANY]"  value=0ms
 <Measured> "Compose: PsiLanguageType:ANY"  time=0ms
 PsiLanguageType:UNKNOWN created
-<Finish> "ComponentContainer.PsiLanguageType:UNKNOWN" time=0ms. Total: 0.0083ms
+<Finish> "ComponentContainer.PsiLanguageType:UNKNOWN" time=0ms. Total: 0.0191ms
 <Measured> "ComponentContainer[PsiLanguageType:UNKNOWN]"  value=0ms
 <Measured> "Compose: PsiLanguageType:UNKNOWN"  time=0ms
 PsiLanguageType:UNMANAGED created
-<Finish> "ComponentContainer.PsiLanguageType:UNMANAGED" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.PsiLanguageType:UNMANAGED" time=0ms. Total: 0.0092ms
 <Measured> "ComponentContainer[PsiLanguageType:UNMANAGED]"  value=0ms
 <Measured> "Compose: PsiLanguageType:UNMANAGED"  time=0ms
 PsiLanguageType:IL created
-<Finish> "ComponentContainer.PsiLanguageType:IL" time=0ms. Total: 0.0086ms
+<Finish> "ComponentContainer.PsiLanguageType:IL" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[PsiLanguageType:IL]"  value=0ms
 <Measured> "Compose: PsiLanguageType:IL"  time=0ms
 PsiLanguageType:REGULAR_EXPRESSION created
-<Finish> "ComponentContainer.PsiLanguageType:REGULAR_EXPRESSION" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.PsiLanguageType:REGULAR_EXPRESSION" time=0ms. Total: 0.0086ms
 <Measured> "ComponentContainer[PsiLanguageType:REGULAR_EXPRESSION]"  value=0ms
 <Measured> "Compose: PsiLanguageType:REGULAR_EXPRESSION"  time=0ms
 PsiLanguageType:CLR_REGULAR_EXPRESSION created
-<Finish> "ComponentContainer.PsiLanguageType:CLR_REGULAR_EXPRESSION" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:CLR_REGULAR_EXPRESSION" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:CLR_REGULAR_EXPRESSION]"  value=0ms
 <Measured> "Compose: PsiLanguageType:CLR_REGULAR_EXPRESSION"  time=0ms
 PsiLanguageType:RESX created
-<Finish> "ComponentContainer.PsiLanguageType:RESX" time=0ms. Total: 0.0072ms
+<Finish> "ComponentContainer.PsiLanguageType:RESX" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[PsiLanguageType:RESX]"  value=0ms
 <Measured> "Compose: PsiLanguageType:RESX"  time=0ms
 PsiLanguageType:VBASIC created
-<Finish> "ComponentContainer.PsiLanguageType:VBASIC" time=0ms. Total: 0.0082ms
+<Finish> "ComponentContainer.PsiLanguageType:VBASIC" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[PsiLanguageType:VBASIC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:VBASIC"  time=1ms
 PsiLanguageType:VB_XMLDOC created
-<Finish> "ComponentContainer.PsiLanguageType:VB_XMLDOC" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.PsiLanguageType:VB_XMLDOC" time=0ms. Total: 0.0081ms
 <Measured> "ComponentContainer[PsiLanguageType:VB_XMLDOC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:VB_XMLDOC"  time=0ms
 PsiLanguageType:XAML created
-<Finish> "ComponentContainer.PsiLanguageType:XAML" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.PsiLanguageType:XAML" time=0ms. Total: 0.0107ms
 <Measured> "ComponentContainer[PsiLanguageType:XAML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:XAML"  time=0ms
 PsiLanguageType:DTD created
-<Finish> "ComponentContainer.PsiLanguageType:DTD" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:DTD" time=0ms. Total: 0.0091ms
 <Measured> "ComponentContainer[PsiLanguageType:DTD]"  value=0ms
 <Measured> "Compose: PsiLanguageType:DTD"  time=0ms
 PsiLanguageType:XML created
-<Finish> "ComponentContainer.PsiLanguageType:XML" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.PsiLanguageType:XML" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:XML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:XML"  time=0ms
 PsiLanguageType:XMLDOC created
-<Finish> "ComponentContainer.PsiLanguageType:XMLDOC" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:XMLDOC" time=0ms. Total: 0.0088ms
 <Measured> "ComponentContainer[PsiLanguageType:XMLDOC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:XMLDOC"  time=0ms
 PsiLanguageType:INJECTEDXML created
-<Finish> "ComponentContainer.PsiLanguageType:INJECTEDXML" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.PsiLanguageType:INJECTEDXML" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[PsiLanguageType:INJECTEDXML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:INJECTEDXML"  time=0ms
 PsiLanguageType:AppxManifest created
-<Finish> "ComponentContainer.PsiLanguageType:AppxManifest" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:AppxManifest" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[PsiLanguageType:AppxManifest]"  value=0ms
 <Measured> "Compose: PsiLanguageType:AppxManifest"  time=0ms
 PsiLanguageType:Web.Config created
-<Finish> "ComponentContainer.PsiLanguageType:Web.Config" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:Web.Config" time=0ms. Total: 0.0082ms
 <Measured> "ComponentContainer[PsiLanguageType:Web.Config]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Web.Config"  time=0ms
 PsiLanguageType:TSXHTML created
-<Finish> "ComponentContainer.PsiLanguageType:TSXHTML" time=0ms. Total: 0.0123ms
+<Finish> "ComponentContainer.PsiLanguageType:TSXHTML" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:TSXHTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:TSXHTML"  time=1ms
 PsiLanguageType:Angular2HTML created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2HTML" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2HTML" time=0ms. Total: 0.0112ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2HTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2HTML"  time=1ms
 PsiLanguageType:InjectedAngular2HTML created
-<Finish> "ComponentContainer.PsiLanguageType:InjectedAngular2HTML" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:InjectedAngular2HTML" time=0ms. Total: 0.0107ms
 <Measured> "ComponentContainer[PsiLanguageType:InjectedAngular2HTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:InjectedAngular2HTML"  time=1ms
 PsiLanguageType:Razor created
-<Finish> "ComponentContainer.PsiLanguageType:Razor" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor" time=0ms. Total: 0.0097ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor"  time=1ms
 PsiLanguageType:Razor CSharp created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp" time=0ms. Total: 0.0096ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp"  time=1ms
 PsiLanguageType:Razor CSharp Template created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp Template" time=0ms. Total: 0.0081ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp Template" time=0ms. Total: 0.0104ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp Template]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp Template"  time=1ms
 PsiLanguageType:Blazor created
-<Finish> "ComponentContainer.PsiLanguageType:Blazor" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:Blazor" time=0ms. Total: 0.0159ms
 <Measured> "ComponentContainer[PsiLanguageType:Blazor]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Blazor"  time=1ms
 PsiLanguageType:Razor CSharp ASP.NET Core 1.0 created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 1.0" time=0ms. Total: 0.0075ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 1.0" time=0ms. Total: 0.0251ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp ASP.NET Core 1.0]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp ASP.NET Core 1.0"  time=1ms
 PsiLanguageType:Razor CSharp ASP.NET Core 2.0 created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 2.0" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 2.0" time=0ms. Total: 0.0107ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp ASP.NET Core 2.0]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp ASP.NET Core 2.0"  time=1ms
 PsiLanguageType:Razor CSharp ASP.NET Core 3.0 created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 3.0" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp ASP.NET Core 3.0" time=0ms. Total: 0.0103ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp ASP.NET Core 3.0]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp ASP.NET Core 3.0"  time=1ms
 PsiLanguageType:Razor CSharp Mvc created
-<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp Mvc" time=0ms. Total: 0.0096ms
+<Finish> "ComponentContainer.PsiLanguageType:Razor CSharp Mvc" time=0ms. Total: 0.0108ms
 <Measured> "ComponentContainer[PsiLanguageType:Razor CSharp Mvc]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Razor CSharp Mvc"  time=1ms
 PsiLanguageType:HTML_REGEXP created
-<Finish> "ComponentContainer.PsiLanguageType:HTML_REGEXP" time=0ms. Total: 0.0083ms
+<Finish> "ComponentContainer.PsiLanguageType:HTML_REGEXP" time=0ms. Total: 0.0094ms
 <Measured> "ComponentContainer[PsiLanguageType:HTML_REGEXP]"  value=0ms
 <Measured> "Compose: PsiLanguageType:HTML_REGEXP"  time=0ms
 PsiLanguageType:JS_REGEXP created
-<Finish> "ComponentContainer.PsiLanguageType:JS_REGEXP" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:JS_REGEXP" time=0ms. Total: 0.0105ms
 <Measured> "ComponentContainer[PsiLanguageType:JS_REGEXP]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JS_REGEXP"  time=0ms
 PsiLanguageType:JAVA_SCRIPT_WINRT created
-<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT_WINRT" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT_WINRT" time=0ms. Total: 0.029ms
 <Measured> "ComponentContainer[PsiLanguageType:JAVA_SCRIPT_WINRT]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JAVA_SCRIPT_WINRT"  time=0ms
 PsiLanguageType:JAVA_SCRIPT_LIKE_BASE created
-<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT_LIKE_BASE" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT_LIKE_BASE" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:JAVA_SCRIPT_LIKE_BASE]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JAVA_SCRIPT_LIKE_BASE"  time=0ms
 PsiLanguageType:JAVA_SCRIPT created
-<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:JAVA_SCRIPT" time=0ms. Total: 0.0088ms
 <Measured> "ComponentContainer[PsiLanguageType:JAVA_SCRIPT]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JAVA_SCRIPT"  time=0ms
 PsiLanguageType:TYPE_SCRIPT created
-<Finish> "ComponentContainer.PsiLanguageType:TYPE_SCRIPT" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.PsiLanguageType:TYPE_SCRIPT" time=0ms. Total: 0.0095ms
 <Measured> "ComponentContainer[PsiLanguageType:TYPE_SCRIPT]"  value=0ms
 <Measured> "Compose: PsiLanguageType:TYPE_SCRIPT"  time=0ms
 PsiLanguageType:JSX created
-<Finish> "ComponentContainer.PsiLanguageType:JSX" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:JSX" time=0ms. Total: 0.009ms
 <Measured> "ComponentContainer[PsiLanguageType:JSX]"  value=0ms
-<Measured> "Compose: PsiLanguageType:JSX"  time=0ms
+<Measured> "Compose: PsiLanguageType:JSX"  time=1ms
 PsiLanguageType:TSX created
-<Finish> "ComponentContainer.PsiLanguageType:TSX" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:TSX" time=0ms. Total: 0.0228ms
 <Measured> "ComponentContainer[PsiLanguageType:TSX]"  value=0ms
 <Measured> "Compose: PsiLanguageType:TSX"  time=0ms
 PsiLanguageType:JSON created
-<Finish> "ComponentContainer.PsiLanguageType:JSON" time=0ms. Total: 0.0097ms
+<Finish> "ComponentContainer.PsiLanguageType:JSON" time=0ms. Total: 0.0096ms
 <Measured> "ComponentContainer[PsiLanguageType:JSON]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JSON"  time=0ms
 PsiLanguageType:INJECTEDJSON created
-<Finish> "ComponentContainer.PsiLanguageType:INJECTEDJSON" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:INJECTEDJSON" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:INJECTEDJSON]"  value=0ms
 <Measured> "Compose: PsiLanguageType:INJECTEDJSON"  time=0ms
 PsiLanguageType:JS_DOC created
-<Finish> "ComponentContainer.PsiLanguageType:JS_DOC" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.PsiLanguageType:JS_DOC" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[PsiLanguageType:JS_DOC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JS_DOC"  time=0ms
 PsiLanguageType:Angular2 created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2" time=0ms. Total: 0.0087ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2"  time=0ms
 PsiLanguageType:Angular2Expression created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2Expression" time=0ms. Total: 0.0073ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2Expression" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2Expression]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2Expression"  time=0ms
 PsiLanguageType:Angular2NgFor created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2NgFor" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2NgFor" time=0ms. Total: 0.0086ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2NgFor]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2NgFor"  time=0ms
 PsiLanguageType:Angular2NgIf created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2NgIf" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2NgIf" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2NgIf]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2NgIf"  time=0ms
 PsiLanguageType:Angular2Statement created
-<Finish> "ComponentContainer.PsiLanguageType:Angular2Statement" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:Angular2Statement" time=0ms. Total: 0.0086ms
 <Measured> "ComponentContainer[PsiLanguageType:Angular2Statement]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Angular2Statement"  time=0ms
 PsiLanguageType:INJECTEDJS created
-<Finish> "ComponentContainer.PsiLanguageType:INJECTEDJS" time=0ms. Total: 0.0077ms
+<Finish> "ComponentContainer.PsiLanguageType:INJECTEDJS" time=0ms. Total: 0.0082ms
 <Measured> "ComponentContainer[PsiLanguageType:INJECTEDJS]"  value=0ms
 <Measured> "Compose: PsiLanguageType:INJECTEDJS"  time=0ms
 PsiLanguageType:JS_XMLDOC created
-<Finish> "ComponentContainer.PsiLanguageType:JS_XMLDOC" time=0ms. Total: 0.0078ms
+<Finish> "ComponentContainer.PsiLanguageType:JS_XMLDOC" time=0ms. Total: 0.009ms
 <Measured> "ComponentContainer[PsiLanguageType:JS_XMLDOC]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JS_XMLDOC"  time=0ms
 PsiLanguageType:HTML created
-<Measured> "QuickFixesRegistration"  time=41ms
-<Finish> "ComponentContainer.PsiLanguageType:HTML" time=0ms. Total: 0.0074ms
+<Finish> "ComponentContainer.PsiLanguageType:HTML" time=0ms. Total: 0.0096ms
 <Measured> "ComponentContainer[PsiLanguageType:HTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:HTML"  time=1ms
 PsiLanguageType:INJECTEDHTML created
-<Finish> "ComponentContainer.PsiLanguageType:INJECTEDHTML" time=0ms. Total: 0.0074ms
+<Measured> "QuickFixesRegistration"  time=47ms
+<Finish> "ComponentContainer.PsiLanguageType:INJECTEDHTML" time=0ms. Total: 0.0081ms
 <Measured> "ComponentContainer[PsiLanguageType:INJECTEDHTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:INJECTEDHTML"  time=1ms
 PsiLanguageType:JSXHTML created
-<Finish> "ComponentContainer.PsiLanguageType:JSXHTML" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:JSXHTML" time=0ms. Total: 0.0081ms
 <Measured> "ComponentContainer[PsiLanguageType:JSXHTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:JSXHTML"  time=1ms
 PsiLanguageType:CSS created
-<Finish> "ComponentContainer.PsiLanguageType:CSS" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:CSS" time=0ms. Total: 0.0078ms
 <Measured> "ComponentContainer[PsiLanguageType:CSS]"  value=0ms
 <Measured> "Compose: PsiLanguageType:CSS"  time=0ms
 PsiLanguageType:INJECTEDCSS created
-<Finish> "ComponentContainer.PsiLanguageType:INJECTEDCSS" time=0ms. Total: 0.008ms
+<Finish> "ComponentContainer.PsiLanguageType:INJECTEDCSS" time=0ms. Total: 0.0083ms
 <Measured> "ComponentContainer[PsiLanguageType:INJECTEDCSS]"  value=0ms
 <Measured> "Compose: PsiLanguageType:INJECTEDCSS"  time=0ms
 PsiLanguageType:CSS_HTML created
-<Finish> "ComponentContainer.PsiLanguageType:CSS_HTML" time=0ms. Total: 0.01ms
+<Finish> "ComponentContainer.PsiLanguageType:CSS_HTML" time=0ms. Total: 0.0089ms
 <Measured> "ComponentContainer[PsiLanguageType:CSS_HTML]"  value=0ms
 <Measured> "Compose: PsiLanguageType:CSS_HTML"  time=0ms
 PsiLanguageType:ASXX created
-<Finish> "ComponentContainer.PsiLanguageType:ASXX" time=0ms. Total: 0.0076ms
+<Finish> "ComponentContainer.PsiLanguageType:ASXX" time=0ms. Total: 0.0082ms
 <Measured> "ComponentContainer[PsiLanguageType:ASXX]"  value=0ms
 <Measured> "Compose: PsiLanguageType:ASXX"  time=0ms
 PsiLanguageType:ASPX created
-<Finish> "ComponentContainer.PsiLanguageType:ASPX" time=0ms. Total: 0.0079ms
+<Finish> "ComponentContainer.PsiLanguageType:ASPX" time=0ms. Total: 0.0085ms
 <Measured> "ComponentContainer[PsiLanguageType:ASPX]"  value=0ms
-<Measured> "Compose: PsiLanguageType:ASPX"  time=1ms
+<Measured> "Compose: PsiLanguageType:ASPX"  time=2ms
 PsiLanguageType:Skin created
-<Finish> "ComponentContainer.PsiLanguageType:Skin" time=0ms. Total: 0.008ms
+<Finish> "ComponentContainer.PsiLanguageType:Skin" time=0ms. Total: 0.0139ms
 <Measured> "ComponentContainer[PsiLanguageType:Skin]"  value=0ms
 <Measured> "Compose: PsiLanguageType:Skin"  time=2ms
 PsiLanguageType:RouteTemplate created
-<Finish> "ComponentContainer.PsiLanguageType:RouteTemplate" time=0ms. Total: 0.0072ms
+<Finish> "ComponentContainer.PsiLanguageType:RouteTemplate" time=0ms. Total: 0.0099ms
 <Measured> "ComponentContainer[PsiLanguageType:RouteTemplate]"  value=0ms
 <Measured> "Compose: PsiLanguageType:RouteTemplate"  time=0ms
 [PT] Language CPP is unknown for key => key.BuildPsiFileSizeThreshold
 [PT] Language CPP_DOXYGEN is unknown for key => key.BuildPsiFileSizeThreshold
 [PT] Language CPP is unknown for key => key.AnalysisFileSizeThreshold
 [PT] Language CPP_DOXYGEN is unknown for key => key.AnalysisFileSizeThreshold
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #3
+Thread 'JetPool(S) #3' started execution in unit 'Short Tasks'. #allExecutors=3, #freeExecutors=0
 First Start Initialization
 SettingsUpgraders created
 Created a CatalogComponentSource for container “Container: SettingsUpgraders”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.SettingsUpgraders" time=7ms. Total: 8.1283ms
-<Measured> "ComponentContainer[SettingsUpgraders]"  value=7ms
-<Measured> "Compose: SettingsUpgraders"  time=8ms
-<Finish> "ComponentContainer.Shell" time=1912ms. Total: 1957.1012ms
-<Measured> "ComponentContainer[Shell]"  value=1912ms
+<Finish> "ComponentContainer.SettingsUpgraders" time=10ms. Total: 10.4379ms
+<Measured> "ComponentContainer[SettingsUpgraders]"  value=10ms
+<Measured> "Compose: SettingsUpgraders"  time=11ms
+<Finish> "ComponentContainer.Shell" time=1941ms. Total: 1994.8823ms
+<Measured> "ComponentContainer[Shell]"  value=1941ms
 Dispatch: queue is empty, not scheduling next execution.
-<Measured> "InspectCode.Initialization"  time=1946ms
+<Measured> "InspectCode.Initialization"  time=1985ms
 Opening solution /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/JsonApiDotNetCore.sln
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #4
 Thread 'JetPool(S) #4' started execution in unit 'Short Tasks'. #allExecutors=4, #freeExecutors=0
 Open solution 'JsonApiDotNetCore'
+SettingsChangeDispatch: now dispatching 21 unique requests.
 SolutionInstanceContainer created
 Created a CatalogComponentSource for container “Container: SolutionInstanceContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
 SolutionContainer created
-SettingsChangeDispatch: now dispatching 21 unique requests.
-Created a CatalogComponentSource for container “Container: SolutionContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-Prepare solution 'JsonApiDotNetCore'
-Create SolutionInstance for 'JsonApiDotNetCore'
-SettingsChangeDispatch: done dispatching 21 unique requests in 25 ms.
+SettingsChangeDispatch: done dispatching 21 unique requests in 27 ms.
 SettingsChangeDispatch: now dispatching 1 unique requests.
-SettingsChangeDispatch: done dispatching 1 unique requests in 0 ms.
+SettingsChangeDispatch: done dispatching 1 unique requests in 1 ms.
+Created a CatalogComponentSource for container “Container: SolutionContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
 SettingsChangeDispatch: now dispatching 0 unique requests.
 SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
+Prepare solution 'JsonApiDotNetCore'
+Create SolutionInstance for 'JsonApiDotNetCore'
 Delay-executing default settings provider “JetBrains.ProjectModel.Caches.PsiConfigurationDefaultSettings, JetBrains.Platform.ProjectModel, Version=777.0.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325” when queried for key path /Default/Environment/Hierarchy/PsiConfigurationSettingsKey/LocationType/@EntryValue.
 Default location will be used to store solution caches.
 Creating solution caches. Expected path: '/home/kaw/.local/share/JetBrains/Transient/InspectCode/v223/SolutionCaches/_JsonApiDotNetCore.-975235804'
@@ -580,7 +582,7 @@ Opening database with DbOpenParams: [
  OnError=ClearAndRetry
  TakeMutex=True
  OnMutextNotAcquired=OpenIndexed
- SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-12_13-12-51.607
+ SecondaryUrl=/tmp/JetBrainsPerUserTemp-1000-1/JetBrains/ReSharper.Db.2022-12-13_09-54-11.872
  OnValidationFail=Clear
  ExpectedVersion=2022.3 EAP 9 D:253:net223-shvedov-bugs2
  PolymorphicTypes=<len=6>
@@ -639,33 +641,33 @@ STV.Started `NuGetDotnetToolsTracker.ManifestUpdater` in separate thread
 Sid 834200438: 'PersistentProjectModelElementProperties.ExcludedProject`'
 IgnoreChangesInFolder /home/kaw/.local/share/JetBrains/Transient/InspectCode/v223/SolutionCaches/_JsonApiDotNetCore.-975235804.00
 Sid 124325476: 'AutoDetectedValuesDb'
-<Finish> "ComponentContainer.SolutionInstanceContainer" time=364ms. Total: 365.0499ms
-<Measured> "ComponentContainer[SolutionInstanceContainer]"  value=364ms
-<Measured> "Compose: SolutionInstanceContainer"  time=366ms
+<Finish> "ComponentContainer.SolutionInstanceContainer" time=397ms. Total: 398.2332ms
+<Measured> "ComponentContainer[SolutionInstanceContainer]"  value=397ms
+<Measured> "Compose: SolutionInstanceContainer"  time=399ms
 ProjectsHostContainer created
 Created a CatalogComponentSource for container “Container: ProjectsHostContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.ProjectsHostContainer" time=17ms. Total: 17.1607ms
-<Measured> "ComponentContainer[ProjectsHostContainer]"  value=17ms
-<Measured> "Compose: ProjectsHostContainer"  time=17ms
+<Finish> "ComponentContainer.ProjectsHostContainer" time=18ms. Total: 18.7867ms
+<Measured> "ComponentContainer[ProjectsHostContainer]"  value=18ms
+<Measured> "Compose: ProjectsHostContainer"  time=19ms
 Configuration: Release, Platform: Any CPU
 Load and sync 2 projects...
 DotnetToolsSolutionLoadOperation skipped because no dotnet tools installed
-1 projects were loaded for 00:00:00.0053712. Project Host: SolutionFolderHost
+1 projects were loaded for 00:00:00.0058457. Project Host: SolutionFolderHost
 <Measured> "LoadProjects.SolutionFolderHost"  value=5ms
 GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
 GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
-Creating MsBuild session for v. 17.0 '/usr/share/dotnet/sdk/7.0.100/MSBuild.dll' and log '/tmp/JetBrainsPerUserTemp-1000-1/JetLogs/MsBuildTask/2022-12-12 13-12-52Z-MsBuildTask.log'
-PAUSE ('Disconnected') :: state=Initialized
-Creating server socket on endpoint: 
-Server socket created, listening started on endpoint: 127.0.0.1:0
 SettingsChangeDispatch: now dispatching 23 unique requests.
+Creating MsBuild session for v. 17.0 '/usr/share/dotnet/sdk/7.0.100/MSBuild.dll' and log '/tmp/JetBrainsPerUserTemp-1000-1/JetLogs/MsBuildTask/2022-12-13 09-54-12Z-MsBuildTask.log'
 SettingsChangeDispatch: done dispatching 23 unique requests in 3 ms.
 SettingsChangeDispatch: now dispatching 1 unique requests.
 SettingsChangeDispatch: done dispatching 1 unique requests in 0 ms.
 SettingsChangeDispatch: now dispatching 0 unique requests.
 SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
+PAUSE ('Disconnected') :: state=Initialized
+Creating server socket on endpoint: 
+Server socket created, listening started on endpoint: 127.0.0.1:0
 BuildToolVersion: '17.4.0.51802' -> '17.4'
-MsBuild [ProjectModel] ProcessEnvironmentVariables for process dotnet with arguments >>>"/usr/share/dotnet/sdk/7.0.100/MSBuild.dll" "/tmp/JetBrainsPerUserTemp-1000-1/Rominug.proj"<<< under working directory “”
+MsBuild [ProjectModel] ProcessEnvironmentVariables for process dotnet with arguments >>>"/usr/share/dotnet/sdk/7.0.100/MSBuild.dll" "/tmp/JetBrainsPerUserTemp-1000-1/Qobovav.proj"<<< under working directory “”
 EnvironmentVariable '_' = '/usr/bin/dotnet'
 EnvironmentVariable 'DISPLAY' = ':0'
 EnvironmentVariable 'DOTNET_CLI_TELEMETRY_OPTOUT' = '1'
@@ -679,7 +681,7 @@ EnvironmentVariable 'LESSOPEN' = '| /usr/bin/lesspipe %s'
 EnvironmentVariable 'LOGNAME' = 'kaw'
 EnvironmentVariable 'LS_COLORS' = 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
 EnvironmentVariable 'MOTD_SHOWN' = 'update-motd'
-EnvironmentVariable 'MSBUILD_TASK_PARENT_PROCESS_PID' = '1465'
+EnvironmentVariable 'MSBUILD_TASK_PARENT_PROCESS_PID' = '2185'
 EnvironmentVariable 'MSBuildExtensionsPath' = '/usr/share/dotnet/sdk/7.0.100'
 EnvironmentVariable 'MSBUILDLOGIMPORTS' = '1'
 EnvironmentVariable 'MSBuildSDKsPath' = '/usr/share/dotnet/sdk/7.0.100/Sdks'
@@ -702,18 +704,18 @@ EnvironmentVariable 'WSLENV' = ''
 EnvironmentVariable 'XDG_DATA_DIRS' = '/usr/local/share:/usr/share:/var/lib/snapd/desktop'
 EnvironmentVariable 'XDG_RUNTIME_DIR' = '/mnt/wslg/runtime-dir'
 
-MsBuild [ProjectModel] Process: Creating process: dotnet "/usr/share/dotnet/sdk/7.0.100/MSBuild.dll" "/tmp/JetBrainsPerUserTemp-1000-1/Rominug.proj"
-MsBuild [ProjectModel] Process 1503: Creating protocol model...
-MsBuild [ProjectModel] Process 1503: Connecting to protocol model...
+MsBuild [ProjectModel] Process: Creating process: dotnet "/usr/share/dotnet/sdk/7.0.100/MSBuild.dll" "/tmp/JetBrainsPerUserTemp-1000-1/Qobovav.proj"
+MsBuild [ProjectModel] Process 2223: Creating protocol model...
+MsBuild [ProjectModel] Process 2223: Connecting to protocol model...
 SettingsChangeDispatch: now dispatching 0 unique requests.
 SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
-MsBuild [ProjectModel] Process 1503: MSBuild version 17.4.0+18d5aef85 for .NET
-MsBuild [ProjectModel] Process 1503: Build started 12/12/2022 13:12:52.
-MsBuild [ProjectModel] Process 1503: Project "/tmp/JetBrainsPerUserTemp-1000-1/Rominug.proj" on node 1 (default targets).
-MsBuild [ProjectModel] Process 1503: ControllerTarget:
-MsBuild [ProjectModel] Process 1503:   Run controller from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Platform.MsBuildTask.v17.dll
+MsBuild [ProjectModel] Process 2223: MSBuild version 17.4.0+18d5aef85 for .NET
+MsBuild [ProjectModel] Process 2223: Build started 12/13/2022 09:54:12.
+MsBuild [ProjectModel] Process 2223: Project "/tmp/JetBrainsPerUserTemp-1000-1/Qobovav.proj" on node 1 (default targets).
+MsBuild [ProjectModel] Process 2223: ControllerTarget:
+MsBuild [ProjectModel] Process 2223:   Run controller from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Platform.MsBuildTask.v17.dll
 RESUME :: state=AsyncProcessing
-MsBuild [ProjectModel] Process 1503: Initialized per 350 ms
+MsBuild [ProjectModel] Process 2223: Initialized per 401 ms
 Start reloading session with 1 projects
 Run session dispatcher...
 OnStart: RdProjectId (  id = 0)
@@ -722,8 +724,8 @@ GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
 TargetFrameworkDirectories not found.
 GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
 Finish reloading sessions and terminate dispatcher...
-1 projects were loaded for 00:00:01.4147366. Project Host: MsBuildProjectHost
-<Measured> "LoadProjects.MsBuildProjectHost"  value=1414ms
+1 projects were loaded for 00:00:01.6031632. Project Host: MsBuildProjectHost
+<Measured> "LoadProjects.MsBuildProjectHost"  value=1603ms
 Initialize project model with 2 added, 0 updated and 0 removed projects on stage InitialSynchronizeSolution
 Sid 844036340: 'SourceGeneratedFilesDiskCacheFileContentCache'
 Sid 1985442484: 'SourceGeneratedFilesCache'
@@ -772,9 +774,9 @@ Sid 917163537: 'AnnotationsIndex.AssemblyAnnotations'
 Sid 1398809240: 'AnnotationsIndex.ParameterAnnotations'
 Sid 544416066: 'AnnotationsIndex.TypeParameterAnnotations'
 Sid 2004643791: 'AnnotationsIndex.AttributeToMembers'
-<Finish> "ComponentContainer.CodeAnnotationProviders" time=1473ms. Total: 1473.6497ms
-<Measured> "ComponentContainer[CodeAnnotationProviders]"  value=1473ms
-<Measured> "Compose: CodeAnnotationProviders"  time=1475ms
+<Finish> "ComponentContainer.CodeAnnotationProviders" time=1624ms. Total: 1625.3881ms
+<Measured> "ComponentContainer[CodeAnnotationProviders]"  value=1624ms
+<Measured> "Compose: CodeAnnotationProviders"  time=1628ms
 Sid 480928407: 'JavaScriptPathReferenceProvider'
 Sid 634669109: 'SourcesTrigramIndex'
 Sid 2120273120: 'RecordKeywordParsingAmbiguityCache'
@@ -785,7 +787,7 @@ Sid 2100336963: 'PersistentProjectModelElementProperties.JetBrains.ReSharper.Psi
 Creating SolutionPerClientComponents container for ClientId(Host)
 SolutionPerClientComponents[$ClientId(Host)] created
 Created a CatalogComponentSource for container “Container: SolutionPerClientComponents[$ClientId(Host)]”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.SolutionPerClientComponents[$ClientId(Host)]" time=0ms. Total: 0.0776ms
+<Finish> "ComponentContainer.SolutionPerClientComponents[$ClientId(Host)]" time=0ms. Total: 0.1112ms
 <Measured> "ComponentContainer[SolutionPerClientComponents[$ClientId(Host)]]"  value=0ms
 <Measured> "Compose: SolutionPerClientComponents[$ClientId(Host)]"  time=0ms
 Sid 1119906224: 'PersistentProjectModelElementProperties.NamespaceFolder'
@@ -794,7 +796,7 @@ STV.Started `NuGetThread` in separate thread
 NuGetOperator.Idle = True
 SolutionProjectModelExtensionsContainer created
 Created a CatalogComponentSource for container “Container: SolutionProjectModelExtensionsContainer”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.SolutionProjectModelExtensionsContainer" time=0ms. Total: 0.0179ms
+<Finish> "ComponentContainer.SolutionProjectModelExtensionsContainer" time=0ms. Total: 0.0268ms
 <Measured> "ComponentContainer[SolutionProjectModelExtensionsContainer]"  value=0ms
 <Measured> "Compose: SolutionProjectModelExtensionsContainer"  time=0ms
 Sid 2058229574: 'ProjectBuildTimeStorage'
@@ -971,18 +973,18 @@ Added to active caches: MvcElementsCache
 Added to active caches: RazorTagHelperCacheCache
 SolutionFeatureParts created
 Created a CatalogComponentSource for container “Container: SolutionFeatureParts”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.SolutionFeatureParts" time=6ms. Total: 7.1617ms
-<Measured> "ComponentContainer[SolutionFeatureParts]"  value=6ms
-<Measured> "Compose: SolutionFeatureParts"  time=7ms
+<Finish> "ComponentContainer.SolutionFeatureParts" time=7ms. Total: 7.8052ms
+<Measured> "ComponentContainer[SolutionFeatureParts]"  value=7ms
+<Measured> "Compose: SolutionFeatureParts"  time=8ms
 Sid 273356373: 'TargetPlatformCache'
 Current storage is Solution
 Current severity is INFO
 Sid 1203434689: 'SearchResultCaches.Descriptors'
 IntellisenseParts created
 Created a CatalogComponentSource for container “Container: IntellisenseParts”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.IntellisenseParts" time=0ms. Total: 0.3937ms
+<Finish> "ComponentContainer.IntellisenseParts" time=0ms. Total: 0.4464ms
 <Measured> "ComponentContainer[IntellisenseParts]"  value=0ms
-<Measured> "Compose: IntellisenseParts"  time=0ms
+<Measured> "Compose: IntellisenseParts"  time=1ms
 Sid 1694211001: 'PersistentProjectModelElementProperties.IsGeneratedCode'
 [SWEA] Initialization started
 SolutionAnalysisContainer created
@@ -990,9 +992,9 @@ Created a CatalogComponentSource for container “Container: SolutionAnalysisCon
 Sid 734277361: 'SolutionAnalysisDependencies'
 Sid 861499594: 'SolutionAnalysisInvalidatedFiles'
 Sid 301475850: 'SolutionAnalysisDaemonResults'
-<Finish> "ComponentContainer.SolutionAnalysisContainer" time=22ms. Total: 22.6563ms
-<Measured> "ComponentContainer[SolutionAnalysisContainer]"  value=22ms
-<Measured> "Compose: SolutionAnalysisContainer"  time=23ms
+<Finish> "ComponentContainer.SolutionAnalysisContainer" time=25ms. Total: 26.0522ms
+<Measured> "ComponentContainer[SolutionAnalysisContainer]"  value=25ms
+<Measured> "Compose: SolutionAnalysisContainer"  time=26ms
 [SWEA] Initialization completed
 <FileImages.Initialized>
 Added to active caches: FileImages
@@ -1003,14 +1005,14 @@ Daemon & SWA suppressed until ruleset files are processed
 Sid 1668656016: 'PsiModuleAttributesCache.JetBrains.Annotations.RazorImportNamespaceAttribute'
 RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, no delay
 SettingsChangeDispatch: now dispatching 48 unique requests.
-SettingsChangeDispatch: done dispatching 48 unique requests in 10 ms.
+SettingsChangeDispatch: done dispatching 48 unique requests in 9 ms.
 SettingsChangeDispatch: now dispatching 1 unique requests.
 SettingsChangeDispatch: done dispatching 1 unique requests in 0 ms.
 SettingsChangeDispatch: now dispatching 0 unique requests.
 SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
-<Finish> "ComponentContainer.SolutionContainer" time=2481ms. Total: 2485.1909ms
-<Measured> "ComponentContainer[SolutionContainer]"  value=2481ms
-<Measured> "Compose: SolutionContainer"  time=2495ms
+<Finish> "ComponentContainer.SolutionContainer" time=2813ms. Total: 2817.277ms
+<Measured> "ComponentContainer[SolutionContainer]"  value=2813ms
+<Measured> "Compose: SolutionContainer"  time=2828ms
 IgnoreChangesInFolder /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/.vs
 IgnoreChangesInFolder /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/.git
 IgnoreChangesInFolder /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/.idea
@@ -1023,41 +1025,43 @@ Sid 1936146853: 'SettingsAssembliesService'
 Sid 1936146853: 'SettingsAssembliesService'
 Start opening System.Collections.Generic.List`1[JetBrains.ProjectModel.IProject] projects...
 Finished opening top level projects
-Update output assembly for project & [3b5561f6-ed80-4d39-aed6-ecb133df288e] started
-Update output assembly for project & [3b5561f6-ed80-4d39-aed6-ecb133df288e] output paths: (1pc)[“(, )”]
-Update output assembly for project & [3b5561f6-ed80-4d39-aed6-ecb133df288e] waiting for 0 task(s)
-Update output assembly for project & [3b5561f6-ed80-4d39-aed6-ecb133df288e] finished
-<Measured> "Update output assembly for project & [3b5561f6-ed80-4d39-aed6-ecb133df288e]"  value=9ms
+Update output assembly for project & [38e8ab10-e640-4dcd-be70-e2defd22ba1e] started
 ProcessAllAsync: Starting (initialBuildCache = False)
 ProcessAllAsync: Cancel (myIsInitialProcessingCompleted = False, initialBuildCache = false)
-Update output assembly for project src [72054ab4-bb79-4dc7-a76e-7d8de13e916d] started
-Update output assembly for project src [72054ab4-bb79-4dc7-a76e-7d8de13e916d] output paths: (1pc)[“(, )”]
-Update output assembly for project src [72054ab4-bb79-4dc7-a76e-7d8de13e916d] waiting for 0 task(s)
-Update output assembly for project src [72054ab4-bb79-4dc7-a76e-7d8de13e916d] finished
-<Measured> "Update output assembly for project src [72054ab4-bb79-4dc7-a76e-7d8de13e916d]"  value=2ms
-Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4] started
+Update output assembly for project & [38e8ab10-e640-4dcd-be70-e2defd22ba1e] output paths: (1pc)[“(, )”]
+Update output assembly for project & [38e8ab10-e640-4dcd-be70-e2defd22ba1e] waiting for 0 task(s)
+Update output assembly for project & [38e8ab10-e640-4dcd-be70-e2defd22ba1e] finished
+<Measured> "Update output assembly for project & [38e8ab10-e640-4dcd-be70-e2defd22ba1e]"  value=14ms
 ProcessAllAsync: Starting (initialBuildCache = False)
 ProcessAllAsync: Cancel (myIsInitialProcessingCompleted = False, initialBuildCache = false)
-SettingsChangeDispatch: now dispatching 60 unique requests.
-GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
-Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4] output paths: (1pc)[“(net6.0, /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/bin/Release/net6.0/JsonApiDotNetCore.dll)”]
+SettingsChangeDispatch: now dispatching 57 unique requests.
+Update output assembly for project src [cf224f62-93fd-44a5-9866-cf5ba83b5e0d] started
+Update output assembly for project src [cf224f62-93fd-44a5-9866-cf5ba83b5e0d] output paths: (1pc)[“(, )”]
+Update output assembly for project src [cf224f62-93fd-44a5-9866-cf5ba83b5e0d] waiting for 0 task(s)
+Update output assembly for project src [cf224f62-93fd-44a5-9866-cf5ba83b5e0d] finished
+<Measured> "Update output assembly for project src [cf224f62-93fd-44a5-9866-cf5ba83b5e0d]"  value=1ms
+Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833] started
+ProcessAllAsync: Starting (initialBuildCache = False)
+ProcessAllAsync: Cancel (myIsInitialProcessingCompleted = False, initialBuildCache = false)
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #5
 Thread 'JetPool(S) #5' started execution in unit 'Short Tasks'. #allExecutors=5, #freeExecutors=0
-All threads are busy. Adding new thread to the pool
-Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4] waiting for 1 task(s)
-Long Tasks: starting executor JetPool(L) #1
 ProcessAllAsync: Starting (initialBuildCache = False)
-Thread 'JetPool(L) #1' started execution in unit 'Long Tasks'. #allExecutors=1, #freeExecutors=0
 ProcessAllAsync: Cancel (myIsInitialProcessingCompleted = False, initialBuildCache = false)
+GetBuildTool version 17.0 from /usr/share/dotnet/sdk/7.0.100
+Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833] output paths: (1pc)[“(net6.0, /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/bin/Release/net6.0/JsonApiDotNetCore.dll)”]
+All threads are busy. Adding new thread to the pool
+Long Tasks: starting executor JetPool(L) #1
+Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833] waiting for 1 task(s)
+Thread 'JetPool(L) #1' started execution in unit 'Long Tasks'. #allExecutors=1, #freeExecutors=0
 Selected .NETFramework,Version=v2.0 for Default from .NETFramework,Version=v2.0;.NETStandard,Version=v1.0;.NETStandard,Version=v2.0;.NETPortable,Version=v4.0,Profile=Profile328
+Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833]: GetAssemblyNameAndIdAsync completed for /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/bin/Release/net6.0/JsonApiDotNetCore.dll
+Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833] finished
+<Measured> "Update output assembly for project JsonApiDotNetCore [fb6bc796-802c-4a82-8c32-31f2fba40833]"  value=88ms
 Selected .NETStandard,Version=v2.0 for net6.0 from .NETFramework,Version=v2.0;.NETStandard,Version=v1.0;.NETStandard,Version=v2.0;.NETPortable,Version=v4.0,Profile=Profile328
 Analyzer added AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /usr/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll }
 Analyzer added AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /usr/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.NetAnalyzers.dll }
 Analyzer added AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /home/kaw/.nuget/packages/microsoft.netcore.app.ref/6.0.11/analyzers/dotnet/cs/System.Text.Json.SourceGeneration.dll }
-Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4]: GetAssemblyNameAndIdAsync completed for /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/bin/Release/net6.0/JsonApiDotNetCore.dll
-Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4] finished
-<Measured> "Update output assembly for project JsonApiDotNetCore [16f74805-a23d-4c2a-9ffd-fb7ae75532c4]"  value=811ms
 AssemblyChange added Microsoft.CSharp, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 AssemblyChange added Microsoft.VisualBasic.Core, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 AssemblyChange added Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
@@ -1376,119 +1380,81 @@ AssemblyChange added WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyTok
 [PMM] Add: System.Xml.XPath, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 [PMM] Add: System.Xml.XPath.XDocument, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 [PMM] Add: WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
-SettingsChangeDispatch: done dispatching 60 unique requests in 878 ms.
+SettingsChangeDispatch: done dispatching 57 unique requests in 991 ms.
+SettingsChangeDispatch: now dispatching 60 unique requests.
+SettingsChangeDispatch: done dispatching 60 unique requests in 0 ms.
 SettingsChangeDispatch: now dispatching 0 unique requests.
 SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
 <PersistentIndexManager.LoadProjectModel>
 <PersistentIndexManager.LoadProjectModel> finished
 Starting ProcessAllAsync after SolutionLoadTaskKinds.Done
 ProcessAllAsync: Starting (initialBuildCache = True)
-ProcessAllAsync: Started (initial=True, 4 projects)
-ProcessAllAsync: ReadLock is acquired
 All threads are busy. Adding new thread to the pool
+ProcessAllAsync: Started (initial=True, 4 projects)
 Short Tasks: starting executor JetPool(S) #6
+ProcessAllAsync: ReadLock is acquired
 Thread 'JetPool(S) #6' started execution in unit 'Short Tasks'. #allExecutors=6, #freeExecutors=0
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #7
+Thread 'JetPool(S) #7' started execution in unit 'Short Tasks'. #allExecutors=7, #freeExecutors=0
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #8
+Thread 'JetPool(S) #8' started execution in unit 'Short Tasks'. #allExecutors=8, #freeExecutors=0
 Suspend Hard Operations mode request from: [ProjectModelMonitor::SyncProjects]
 ENTER SUSPEND HARD OPERATIONS MODE
 RELEASE SUSPEND HARD OPERATIONS
 Release Hard Operations mode request from: [ProjectModelMonitor::SyncProjects]
+All threads are busy. Adding new thread to the pool
 IsProjectModelReady -> True [ProjectModel: True, Operations: ]
-NuGetOperator.Idle = False
-All threads are busy. Adding new thread to the pool
-Short Tasks: starting executor JetPool(S) #7
-Thread 'JetPool(S) #7' started execution in unit 'Short Tasks'. #allExecutors=7, #freeExecutors=0
-NuGetOperationLevel = ProjectItemPropertiesUpdating
-Enqueue ProjectImpl(Name : JsonApiDotNetCore)
-All threads are busy. Adding new thread to the pool
-Short Tasks: starting executor JetPool(S) #8
-Sid 1413353939: 'NuGetNupkgStorageKnownPaths-v07'
-Thread 'JetPool(S) #8' started execution in unit 'Short Tasks'. #allExecutors=8, #freeExecutors=0
-NuGetOperationLevel = NuGetModelUpdating
-Sid 2118751906: 'NuGetNupkgStorage-v07'
-ProcessAllAsync: Starting to process pending projects (N=1)
-NuGetOperationLevel = FileSystemUpdating
-NuGetOperator.Idle = True
-NuGetOperationLevel = None
-[PS]GetResolvedInstalledPackagesAsync for JsonApiDotNetCore: List(0) {  }
-All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #9
+NuGetOperator.Idle = False
 Thread 'JetPool(S) #9' started execution in unit 'Short Tasks'. #allExecutors=9, #freeExecutors=0
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #10
 Thread 'JetPool(S) #10' started execution in unit 'Short Tasks'. #allExecutors=10, #freeExecutors=0
+ProcessAllAsync: Starting to process pending projects (N=1)
+NuGetOperationLevel = ProjectItemPropertiesUpdating
+Sid 1413353939: 'NuGetNupkgStorageKnownPaths-v07'
+[PS]GetResolvedInstalledPackagesAsync for JsonApiDotNetCore: List(0) {  }
 All threads are busy. Adding new thread to the pool
+NuGetOperationLevel = NuGetModelUpdating
 Short Tasks: starting executor JetPool(S) #11
-ProcessAllAsync: Finished
 Thread 'JetPool(S) #11' started execution in unit 'Short Tasks'. #allExecutors=11, #freeExecutors=0
-myIsInitialProcessingCompleted = true
+Enqueue ProjectImpl(Name : JsonApiDotNetCore)
+Sid 2118751906: 'NuGetNupkgStorage-v07'
+SettingsChangeDispatch: now dispatching 0 unique requests.
+SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
+NuGetOperationLevel = FileSystemUpdating
+NuGetOperator.Idle = True
+NuGetOperationLevel = None
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #12
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/mscorlib.dll
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/netstandard.dll
 Thread 'JetPool(S) #12' started execution in unit 'Short Tasks'. #allExecutors=12, #freeExecutors=0
 All threads are busy. Adding new thread to the pool
+ProcessAllAsync: Finished
 Short Tasks: starting executor JetPool(S) #13
+myIsInitialProcessingCompleted = true
 Thread 'JetPool(S) #13' started execution in unit 'Short Tasks'. #allExecutors=13, #freeExecutors=0
 All threads are busy. Adding new thread to the pool
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/mscorlib.exe
 Short Tasks: starting executor JetPool(S) #14
 Thread 'JetPool(S) #14' started execution in unit 'Short Tasks'. #allExecutors=14, #freeExecutors=0
-Solution load: 3741 ms. 80 tasks. Max time: 2502 ms "Create Solution Container Task"
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/netstandard.exe
-  LoadSolutionFromCache: 0 ms. 1 tasks. Max time: 0 ms "Cold startup"
-  SolutionContainer: 2502 ms. 2 tasks. Max time: 2502 ms "Create Solution Container Task"
-  InitialSynchronizeSolution: 127 ms. 3 tasks. Max time: 68 ms "Update project model for projects"
-  SolutionStructureReady: 117 ms. 20 tasks. Max time: 50 ms "Open project instance JsonApiDotNetCore"
-  FireProjectItemsAdded: 768 ms. 4 tasks. Max time: 765 ms "Raise All Projects Added Task"
-  FireAssembliesAdded: 93 ms. 1 tasks. Max time: 93 ms "Fire assemblies added"
-  PreparePsiModules: 16 ms. 3 tasks. Max time: 12 ms "StanaloneJavaScriptDependentFilesModuleFactory.Activate"
-  BeforeKickOff: 0 ms. 1 tasks. Max time: 0 ms "Project Model Ready"
-  KickOff: 3 ms. 2 tasks. Max time: 3 ms "Kick off"
-  StartPsi: 27 ms. 13 tasks. Max time: 13 ms "Loading persistent file indices"
-  Done: 7 ms. 14 tasks. Max time: 2 ms "IgnoredElementsSearchProvider"
-  AfterDone: 75 ms. 15 tasks. Max time: 63 ms "LinqToXsdSupportManager.EnqueueCreateLinqToXsdDetector"
-  AsLateAsPossible: 0 ms. 1 tasks. Max time: 0 ms "SolutionBuilderStartAnalyzeChecker"
 All threads are busy. Adding new thread to the pool
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/mscorlib.winmd
 Short Tasks: starting executor JetPool(S) #15
 Thread 'JetPool(S) #15' started execution in unit 'Short Tasks'. #allExecutors=15, #freeExecutors=0
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/netstandard.winmd
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #16
 Thread 'JetPool(S) #16' started execution in unit 'Short Tasks'. #allExecutors=16, #freeExecutors=0
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/System.Runtime.dll
 All threads are busy. Adding new thread to the pool
-Finish solution opening 'JsonApiDotNetCore'
 Short Tasks: starting executor JetPool(S) #17
-Solution /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/JsonApiDotNetCore.sln opened
 Thread 'JetPool(S) #17' started execution in unit 'Short Tasks'. #allExecutors=17, #freeExecutors=0
-RequestCommit for JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient, no delay
 All threads are busy. Adding new thread to the pool
-OnAlarm: trying to execute
 Short Tasks: starting executor JetPool(S) #18
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/System.Runtime.dll
 Thread 'JetPool(S) #18' started execution in unit 'Short Tasks'. #allExecutors=18, #freeExecutors=0
-Commit for (2pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient]
-Execute after commit actions
-DropRequest for JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/System.Runtime.exe
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
-SetNewState. isAvailableValue=False, isReadyValue=False
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #19
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/System.Runtime.exe
 Thread 'JetPool(S) #19' started execution in unit 'Short Tasks'. #allExecutors=19, #freeExecutors=0
-UpdateState change newRunner.IsReady=True
-UpdateState IsReady=True, Runner=JetBrains.ReSharper.Features.SolBuilderDuo.ConsoleRunner.MsBuildExeBuildRunner
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/net20/System.Runtime.winmd
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #20
-Failed to fetch assembly name and id from /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/Annotations/netstandard2.0/System.Runtime.winmd
 Thread 'JetPool(S) #20' started execution in unit 'Short Tasks'. #allExecutors=20, #freeExecutors=0
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #21
@@ -1496,6 +1462,20 @@ Thread 'JetPool(S) #21' started execution in unit 'Short Tasks'. #allExecutors=2
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #22
 Thread 'JetPool(S) #22' started execution in unit 'Short Tasks'. #allExecutors=22, #freeExecutors=0
+Solution load: 4289 ms. 80 tasks. Max time: 2835 ms "Create Solution Container Task"
+  LoadSolutionFromCache: 0 ms. 1 tasks. Max time: 0 ms "Cold startup"
+  SolutionContainer: 2836 ms. 2 tasks. Max time: 2835 ms "Create Solution Container Task"
+  InitialSynchronizeSolution: 143 ms. 3 tasks. Max time: 74 ms "Update project model for projects"
+  SolutionStructureReady: 169 ms. 20 tasks. Max time: 75 ms "Open project instance src"
+  FireProjectItemsAdded: 822 ms. 4 tasks. Max time: 819 ms "Raise All Projects Added Task"
+  FireAssembliesAdded: 96 ms. 1 tasks. Max time: 96 ms "Fire assemblies added"
+  PreparePsiModules: 23 ms. 3 tasks. Max time: 17 ms "StanaloneJavaScriptDependentFilesModuleFactory.Activate"
+  BeforeKickOff: 0 ms. 1 tasks. Max time: 0 ms "Project Model Ready"
+  KickOff: 4 ms. 2 tasks. Max time: 4 ms "Kick off"
+  StartPsi: 38 ms. 13 tasks. Max time: 16 ms "Loading persistent file indices"
+  Done: 12 ms. 14 tasks. Max time: 4 ms "IgnoredElementsSearchProvider"
+  AfterDone: 140 ms. 15 tasks. Max time: 105 ms "LinqToXsdSupportManager.EnqueueCreateLinqToXsdDetector"
+  AsLateAsPossible: 0 ms. 1 tasks. Max time: 0 ms "SolutionBuilderStartAnalyzeChecker"
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #23
 Thread 'JetPool(S) #23' started execution in unit 'Short Tasks'. #allExecutors=23, #freeExecutors=0
@@ -1504,125 +1484,170 @@ Short Tasks: starting executor JetPool(S) #24
 Thread 'JetPool(S) #24' started execution in unit 'Short Tasks'. #allExecutors=24, #freeExecutors=0
 All threads are busy. Adding new thread to the pool
 Short Tasks: starting executor JetPool(S) #25
-﻿Ctor invocation time excluding nested components and containers. Total components count = 3696, Ctor own time = 4414ms
-Top components by Ctor own time [Ctor own time >= 20ms, Count = 23, Total time: 2657ms]:
-  1451 JetBrains.ReSharper.Psi.Impl.Reflection2.ExternalAnnotations.AnnotationsIndex
-   140 JetBrains.Application.Icons.Settings.ThemedIconSettingsLoader
-   105 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.MsBuild.CommandLineSolutionToolset
-    92 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigHighlightingConverter
-    88 JetBrains.ReSharper.Psi.CSharp.Impl.CodeStyle.Formatter.EditorConfigRoslynCSharpFormatPropertiesConverter
-    86 JetBrains.Application.ShellFeaturePartsContainer
-    77 JetBrains.ReSharper.Psi.Languages
-    74 JetBrains.ReSharper.Daemon.SolutionAnalysis.IssueTypesManager
-    66 JetBrains.ReSharper.Feature.Services.Web.JavaScript.NodeJs.NodePathProvider
-    60 JetBrains.Platform.MsBuildHost.Autodetect.Advanced.BuildToolWellKnownPropertiesLoader
-    48 JetBrains.ProjectModel.NuGet.Options.NuGetOptionsProvider
-    42 JetBrains.ReSharper.Psi.Impl.reflection2.AssemblyFileLoaderZoned.PsiAssemblyFileLoader
-    40 JetBrains.ReSharper.Psi.ExtensionsAPI.Resolve.Verification.VerifierRegistry
-    35 JetBrains.ReSharper.Feature.Services.Daemon.HighlightingSettingsManagerImpl
-    33 JetBrains.Application.Settings.UserInterface.UserInjectedSettingsLayers
-    30 JetBrains.ReSharper.Psi.JavaScript.Tree.JavaScriptNodeTypes
-    28 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdProviderByProjectJson
-    27 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoGlobalSettingsUpgrade
-    26 JetBrains.Application.PersistentMap.PolymorphicMarshallers
-    25 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdInProjectFile
-    23 JetBrains.ReSharper.Psi.CodeAnnotations.CodeAnnotationsCache
-    23 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoSolutionSettingsUpgrade
-    20 JetBrains.Application.UI.ActionsRevised.Loader.ActionDefs
-
-
 Thread 'JetPool(S) #25' started execution in unit 'Short Tasks'. #allExecutors=25, #freeExecutors=0
-ProcessAllAsync: Starting (initialBuildCache = False)
-ProcessAllAsync: Started (initial=False, 0 projects)
-ProcessAllAsync: ReadLock is acquired
-﻿== Container: JetEnvironment ==
-	Started Monday, 12 December 2022 13:12
-	Total time: 0:00:00.2458281
-	Composition time: 0:00:00.2452818
-	Total ctor invocation time: 0:00:00.0556564
-Ctor invocation time excluding nested components and containers. Total components count = 66, Ctor own time = 55ms
-Top components by Ctor own time [Ctor own time >= 0ms, Count = 1, Total time: 4ms]:
-     4 JetBrains.Application.Environment.JetEnvironmentZones
-
-== Container: SolutionContainer ==
-	Started Monday, 12 December 2022 13:12
-	Total time: 0:00:02.4846538
-	Composition time: 0:00:02.4819503
-	Total ctor invocation time: 0:00:02.2786688
-Ctor invocation time excluding nested components and containers. Total components count = 1869, Ctor own time = 2278ms
-Top components by Ctor own time [Ctor own time >= 0ms, Count = 6, Total time: 1542ms]:
-  1451 JetBrains.ReSharper.Psi.Impl.Reflection2.ExternalAnnotations.AnnotationsIndex
-    42 JetBrains.ReSharper.Psi.Impl.reflection2.AssemblyFileLoaderZoned.PsiAssemblyFileLoader
-    23 JetBrains.ReSharper.Psi.CodeAnnotations.CodeAnnotationsCache
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #26
+Finish solution opening 'JsonApiDotNetCore'
+Thread 'JetPool(S) #26' started execution in unit 'Short Tasks'. #allExecutors=26, #freeExecutors=0
+Solution /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/JsonApiDotNetCore.sln opened
+RequestCommit for JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient, no delay
+OnAlarm: trying to execute
+Commit for (2pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient]
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #27
+Thread 'JetPool(S) #27' started execution in unit 'Short Tasks'. #allExecutors=27, #freeExecutors=0
+Execute after commit actions
+DropRequest for JetBrains.ReSharper.Daemon.StatusBarMessenger+MyAsyncCommitClient
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+SetNewState. isAvailableValue=False, isReadyValue=False
+All threads are busy. Adding new thread to the pool
+UpdateState change newRunner.IsReady=True
+Short Tasks: starting executor JetPool(S) #28
+UpdateState IsReady=True, Runner=JetBrains.ReSharper.Features.SolBuilderDuo.ConsoleRunner.MsBuildExeBuildRunner
+Thread 'JetPool(S) #28' started execution in unit 'Short Tasks'. #allExecutors=28, #freeExecutors=0
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #29
+Thread 'JetPool(S) #29' started execution in unit 'Short Tasks'. #allExecutors=29, #freeExecutors=0
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #30
+Thread 'JetPool(S) #30' started execution in unit 'Short Tasks'. #allExecutors=30, #freeExecutors=0
+All threads are busy. Adding new thread to the pool
+Short Tasks: starting executor JetPool(S) #31
+Thread 'JetPool(S) #31' started execution in unit 'Short Tasks'. #allExecutors=31, #freeExecutors=0
+Queuing WriteActionScheduler::Schedule::Action::OutputAssemblies on readers lifetime termination
+﻿Ctor invocation time excluding nested components and containers. Total components count = 3696, Ctor own time = 4915ms
+Top components by Ctor own time [Ctor own time >= 20ms, Count = 25, Total time: 2924ms]:
+  1599 JetBrains.ReSharper.Psi.Impl.Reflection2.ExternalAnnotations.AnnotationsIndex
+   140 JetBrains.Platform.MsBuildHost.Autodetect.Advanced.BuildToolWellKnownPropertiesLoader
+   125 JetBrains.Application.Icons.Settings.ThemedIconSettingsLoader
+   113 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.MsBuild.CommandLineSolutionToolset
+   102 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigHighlightingConverter
+    95 JetBrains.ReSharper.Psi.CSharp.Impl.CodeStyle.Formatter.EditorConfigRoslynCSharpFormatPropertiesConverter
+    91 JetBrains.ReSharper.Daemon.SolutionAnalysis.IssueTypesManager
+    77 JetBrains.ReSharper.Feature.Services.Web.JavaScript.NodeJs.NodePathProvider
+    51 JetBrains.ReSharper.Psi.Impl.reflection2.AssemblyFileLoaderZoned.PsiAssemblyFileLoader
+    49 JetBrains.ProjectModel.NuGet.Options.NuGetOptionsProvider
+    44 JetBrains.Application.License2.License2CheckComponent
+    42 JetBrains.ReSharper.Psi.ExtensionsAPI.Resolve.Verification.VerifierRegistry
+    41 JetBrains.Application.ShellFeaturePartsContainer
+    40 JetBrains.Application.Settings.UserInterface.UserInjectedSettingsLayers
+    37 JetBrains.ReSharper.Feature.Services.Daemon.HighlightingSettingsManagerImpl
+    33 JetBrains.ReSharper.Psi.JavaScript.Tree.JavaScriptNodeTypes
+    33 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoGlobalSettingsUpgrade
+    31 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdProviderByProjectJson
+    28 JetBrains.ReSharper.Psi.CodeAnnotations.CodeAnnotationsCache
+    27 JetBrains.Application.PersistentMap.PolymorphicMarshallers
+    26 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdInProjectFile
     23 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoSolutionSettingsUpgrade
-     2 JetBrains.ReSharper.Feature.Services.CSharp.StackTraces.CSharpStackTraceResolver
-     0 JetBrains.DocumentManagers.PropertyModifiers.CSharpLanguageVersionModifier
+    21 JetBrains.ReSharper.Feature.Services.Daemon.ElementProblemAnalyzerRegistrar
+    20 JetBrains.Application.UI.Components.Theming.ThemeManager
+    20 JetBrains.ReSharper.Psi.Caches.PsiCacheRegistry
 
-== Container: Shell ==
-	Started Monday, 12 December 2022 13:12
-	Total time: 0:00:01.9566194
-	Composition time: 0:00:01.9121685
-	Total ctor invocation time: 0:00:01.6748939
-Ctor invocation time excluding nested components and containers. Total components count = 1270, Ctor own time = 1674ms
-Top components by Ctor own time [Ctor own time >= 0ms, Count = 18, Total time: 901ms]:
-   140 JetBrains.Application.Icons.Settings.ThemedIconSettingsLoader
-    92 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigHighlightingConverter
-    88 JetBrains.ReSharper.Psi.CSharp.Impl.CodeStyle.Formatter.EditorConfigRoslynCSharpFormatPropertiesConverter
-    86 JetBrains.Application.ShellFeaturePartsContainer
-    77 JetBrains.ReSharper.Psi.Languages
-    74 JetBrains.ReSharper.Daemon.SolutionAnalysis.IssueTypesManager
-    66 JetBrains.ReSharper.Feature.Services.Web.JavaScript.NodeJs.NodePathProvider
-    60 JetBrains.Platform.MsBuildHost.Autodetect.Advanced.BuildToolWellKnownPropertiesLoader
-    40 JetBrains.ReSharper.Psi.ExtensionsAPI.Resolve.Verification.VerifierRegistry
-    35 JetBrains.ReSharper.Feature.Services.Daemon.HighlightingSettingsManagerImpl
-    33 JetBrains.Application.Settings.UserInterface.UserInjectedSettingsLayers
-    30 JetBrains.ReSharper.Psi.JavaScript.Tree.JavaScriptNodeTypes
-    27 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoGlobalSettingsUpgrade
-    26 JetBrains.Application.PersistentMap.PolymorphicMarshallers
-    20 JetBrains.Application.UI.ActionsRevised.Loader.ActionDefs
-     0 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigOptionsExporter
-     0 JetBrains.IDE.UsageStatistics.FileTypesUsagesCollector
-     0 JetBrains.Application.UI.Options.OptionsDialog.Layers.SettingsLayersDialogAutomationFactory
 
-== Container: SolutionInstanceContainer ==
-	Started Monday, 12 December 2022 13:12
-	Total time: 0:00:00.3650006
-	Composition time: 0:00:00.3644378
-	Total ctor invocation time: 0:00:00.3476048
-Ctor invocation time excluding nested components and containers. Total components count = 149, Ctor own time = 347ms
-Top components by Ctor own time [Ctor own time >= 0ms, Count = 5, Total time: 208ms]:
-   105 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.MsBuild.CommandLineSolutionToolset
-    48 JetBrains.ProjectModel.NuGet.Options.NuGetOptionsProvider
-    28 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdProviderByProjectJson
-    25 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdInProjectFile
+﻿== Container: SolutionInstanceContainer ==
+	Started Tuesday, 13 December 2022 09:54
+	Total time: 0:00:00.3981677
+	Composition time: 0:00:00.3973311
+	Total ctor invocation time: 0:00:00.3780654
+Ctor invocation time excluding nested components and containers. Total components count = 149, Ctor own time = 378ms
+Top components by Ctor own time [Ctor own time >= 0ms, Count = 5, Total time: 220ms]:
+   113 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.MsBuild.CommandLineSolutionToolset
+    49 JetBrains.ProjectModel.NuGet.Options.NuGetOptionsProvider
+    31 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdProviderByProjectJson
+    26 JetBrains.ProjectModel.ProjectImplementation.TargetFrameworkIdInProjectFile
      0 JetBrains.ProjectModel.NuGet.Operations.NuGetProjectsRestoreMarksService
 
+== Container: SolutionContainer ==
+	Started Tuesday, 13 December 2022 09:54
+	Total time: 0:00:02.8167548
+	Composition time: 0:00:02.8135742
+	Total ctor invocation time: 0:00:02.5763063
+Ctor invocation time excluding nested components and containers. Total components count = 1869, Ctor own time = 2576ms
+Top components by Ctor own time [Ctor own time >= 0ms, Count = 8, Total time: 1749ms]:
+  1599 JetBrains.ReSharper.Psi.Impl.Reflection2.ExternalAnnotations.AnnotationsIndex
+    51 JetBrains.ReSharper.Psi.Impl.reflection2.AssemblyFileLoaderZoned.PsiAssemblyFileLoader
+    28 JetBrains.ReSharper.Psi.CodeAnnotations.CodeAnnotationsCache
+    23 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoSolutionSettingsUpgrade
+    21 JetBrains.ReSharper.Feature.Services.Daemon.ElementProblemAnalyzerRegistrar
+    20 JetBrains.ReSharper.Psi.Caches.PsiCacheRegistry
+     3 JetBrains.ReSharper.Feature.Services.CSharp.StackTraces.CSharpStackTraceResolver
+     0 JetBrains.DocumentManagers.PropertyModifiers.CSharpLanguageVersionModifier
 
-ProcessAllAsync: Starting to process pending projects (N=0)
-Queuing WriteActionScheduler::Schedule::Action::OutputAssemblies on readers lifetime termination
-ProcessAllAsync: Finished
-<Measured> "Load[System.Collections.NonGeneric]"  time=9314ms
-<Measured> "Load[System.Collections.Specialized]"  time=9302ms
-<Measured> "Load[Microsoft.Win32.Primitives]"  time=9382ms
-<Measured> "Load[System.Buffers]"  time=9336ms
-<Measured> "Load[System.ComponentModel.DataAnnotations]"  time=9280ms
-<Measured> "Load[JetBrains.Annotations]"  time=9391ms
-<Measured> "Load[mscorlib]"  time=9374ms
-<Measured> "Load[Microsoft.CSharp]"  time=9391ms
-<Measured> "Load[JetBrains.Annotations]"  time=9391ms
-<Measured> "Load[System.ComponentModel.Annotations]"  time=9291ms
-<Measured> "Load[System.Collections.Concurrent]"  time=9336ms
-<Measured> "Load[System.ComponentModel.Primitives]"  time=9252ms
-<Measured> "Load[Microsoft.Win32.Registry]"  time=9376ms
-<Measured> "Load[System.ComponentModel]"  time=9277ms
-<Measured> "Load[System.Collections.Immutable]"  time=9322ms
-<Measured> "Load[netstandard]"  time=9362ms
-<Measured> "Load[System.Collections]"  time=9335ms
-<Measured> "Load[System.ComponentModel.EventBasedAsync]"  time=9264ms
-<Measured> "Load[System.AppContext]"  time=9350ms
-<Measured> "Load[Microsoft.VisualBasic]"  time=9391ms
-<Measured> "Load[Microsoft.VisualBasic.Core]"  time=9391ms
+== Container: JetEnvironment ==
+	Started Tuesday, 13 December 2022 09:54
+	Total time: 0:00:00.244684
+	Composition time: 0:00:00.2423579
+	Total ctor invocation time: 0:00:00.1586079
+Ctor invocation time excluding nested components and containers. Total components count = 66, Ctor own time = 158ms
+Top components by Ctor own time [Ctor own time >= 0ms, Count = 1, Total time: 44ms]:
+    44 JetBrains.Application.License2.License2CheckComponent
+
+== Container: Shell ==
+	Started Tuesday, 13 December 2022 09:54
+	Total time: 0:00:01.99435
+	Composition time: 0:00:01.9410766
+	Total ctor invocation time: 0:00:01.7380536
+Ctor invocation time excluding nested components and containers. Total components count = 1270, Ctor own time = 1738ms
+Top components by Ctor own time [Ctor own time >= 0ms, Count = 16, Total time: 909ms]:
+   140 JetBrains.Platform.MsBuildHost.Autodetect.Advanced.BuildToolWellKnownPropertiesLoader
+   125 JetBrains.Application.Icons.Settings.ThemedIconSettingsLoader
+   102 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigHighlightingConverter
+    95 JetBrains.ReSharper.Psi.CSharp.Impl.CodeStyle.Formatter.EditorConfigRoslynCSharpFormatPropertiesConverter
+    91 JetBrains.ReSharper.Daemon.SolutionAnalysis.IssueTypesManager
+    77 JetBrains.ReSharper.Feature.Services.Web.JavaScript.NodeJs.NodePathProvider
+    42 JetBrains.ReSharper.Psi.ExtensionsAPI.Resolve.Verification.VerifierRegistry
+    41 JetBrains.Application.ShellFeaturePartsContainer
+    40 JetBrains.Application.Settings.UserInterface.UserInjectedSettingsLayers
+    37 JetBrains.ReSharper.Feature.Services.Daemon.HighlightingSettingsManagerImpl
+    33 JetBrains.ReSharper.Psi.JavaScript.Tree.JavaScriptNodeTypes
+    33 JetBrains.ReSharperAutomationTools.CommandLine.Common.Console.BatchTool.SettingsUpgrade.NoGlobalSettingsUpgrade
+    27 JetBrains.Application.PersistentMap.PolymorphicMarshallers
+    20 JetBrains.Application.UI.Components.Theming.ThemeManager
+     0 JetBrains.ReSharper.Feature.Services.EditorConfig.EditorConfigOptionsExporter
+     0 JetBrains.Application.UI.Options.OptionsDialog.Layers.SettingsLayersDialogAutomationFactory
+
+
+ProcessAllAsync: Starting (initialBuildCache = False)
+ProcessAllAsync: Started (initial=False, 0 projects)
+<Measured> "Load[System.Configuration]"  time=10214ms
+<Measured> "Load[Microsoft.Win32.Primitives]"  time=10364ms
+<Measured> "Load[System.Collections.Immutable]"  time=10303ms
+<Measured> "Load[System.ComponentModel]"  time=10254ms
+<Measured> "Load[Microsoft.Win32.Registry]"  time=10364ms
+<Measured> "Load[System.Collections.Concurrent]"  time=10309ms
+<Measured> "Load[Microsoft.CSharp]"  time=10364ms
+<Measured> "Load[JetBrains.Annotations]"  time=10364ms
+<Measured> "Load[System.Console]"  time=10203ms
+<Measured> "Load[System.Collections.Specialized]"  time=10280ms
+<Measured> "Load[JetBrains.Annotations]"  time=10364ms
+<Measured> "Load[System.Data.DataSetExtensions]"  time=10176ms
+<Measured> "Load[System.Diagnostics.Contracts]"  time=10151ms
+<Measured> "Load[System.ComponentModel.Annotations]"  time=10267ms
+<Measured> "Load[System.ComponentModel.EventBasedAsync]"  time=10243ms
+<Measured> "Load[System.ComponentModel.Primitives]"  time=10231ms
+<Measured> "Load[System.ComponentModel.TypeConverter]"  time=10219ms
+<Measured> "Load[System.Data.Common]"  time=10178ms
+<Measured> "Load[mscorlib]"  time=10351ms
+<Measured> "Load[netstandard]"  time=10339ms
+<Measured> "Load[System.AppContext]"  time=10336ms
+<Measured> "Load[System.Data]"  time=10164ms
+<Measured> "Load[Microsoft.VisualBasic.Core]"  time=10364ms
+<Measured> "Load[System.ComponentModel.DataAnnotations]"  time=10265ms
+<Measured> "Load[Microsoft.VisualBasic]"  time=10365ms
+<Measured> "Load[System.Collections]"  time=10303ms
+<Measured> "Load[System.Collections.NonGeneric]"  time=10290ms
+<Measured> "Load[System.Diagnostics.Debug]"  time=10139ms
+<Measured> "Load[System.Buffers]"  time=10322ms
+<Measured> "Load[System.Core]"  time=10191ms
+ProcessAllAsync: ReadLock is acquired
 Suppressors finished, resuming daemon
+ProcessAllAsync: Starting to process pending projects (N=0)
+ProcessAllAsync: Finished
 ProcessAllAsync: Starting (initialBuildCache = False)
 ProcessAllAsync: Started (initial=False, 1 projects)
 ProcessAllAsync: ReadLock is acquired
@@ -1631,39 +1656,30 @@ ProcessAllAsync: Starting to process pending projects (N=1)
 [PS]GetResolvedInstalledPackagesAsync for JsonApiDotNetCore: List(0) {  }
 ProcessAllAsync: Finished
 Initialize monitor, enabled = False
-All threads are busy. Adding new thread to the pool
-Short Tasks: starting executor JetPool(S) #26
-Thread 'JetPool(S) #26' started execution in unit 'Short Tasks'. #allExecutors=26, #freeExecutors=0
-All threads are busy. Adding new thread to the pool
 Ready -> True Caller=Initialize: Initialized=True RoslynDisabled=True
 PendingOperations: PendingAnalyzerReferences: ProjectKey { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0 }
-Short Tasks: starting executor JetPool(S) #27
-Thread 'JetPool(S) #27' started execution in unit 'Short Tasks'. #allExecutors=27, #freeExecutors=22
-All threads are busy. Adding new thread to the pool
+<Measured> "Load[System.Linq]"  time=23ms
 Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
-Short Tasks: starting executor JetPool(S) #28
-Thread 'JetPool(S) #28' started execution in unit 'Short Tasks'. #allExecutors=28, #freeExecutors=12
+<Measured> "Load[System.Linq.Parallel]"  time=22ms
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=False
-All threads are busy. Adding new thread to the pool
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
-Short Tasks: starting executor JetPool(S) #29
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=False
-Thread 'JetPool(S) #29' started execution in unit 'Short Tasks'. #allExecutors=29, #freeExecutors=23
+<Measured> "Load[System.Memory]"  time=26ms
 Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ChangingTracking.Inputs.SolutionBuilderCache
 New value: True. calculationFinished: True, idleValue: True
+<Measured> "Load[System.Reflection.Metadata]"  time=24ms
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=True, calculationFinished=True, currentBuilderState=None
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=False
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=None
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=False
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=None
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=False
+Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
+Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
+Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
 SetNewState. isAvailableValue=False, isReadyValue=False
-<Measured> "Load[System.Runtime.Intrinsics]"  time=23ms
 SetNewState. isAvailableValue=False, isReadyValue=False
-Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
-Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
-Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
 SetNewState. isAvailableValue=False, isReadyValue=False
 SetNewState. isAvailableValue=False, isReadyValue=False
 SetNewState. isAvailableValue=False, isReadyValue=False
@@ -1673,8 +1689,7 @@ Running Roslyn Worker
 PAUSE ('Disconnected') :: state=Initialized
 Creating server socket on endpoint: 
 Server socket created, listening started on endpoint: 127.0.0.1:0
-<Measured> "Load[System.Runtime]"  time=34ms
-EnvironmentVariables for process dotnet with arguments >>>"/mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Roslyn.Worker.exe" 42969 1465<<< under working directory /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper
+EnvironmentVariables for process dotnet with arguments >>>"/mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Roslyn.Worker.exe" 33705 2185<<< under working directory /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper
 EnvironmentVariable '_' = '/usr/bin/dotnet'
 EnvironmentVariable 'DISPLAY' = ':0'
 EnvironmentVariable 'DOTNET_CLI_TELEMETRY_OPTOUT' = '1'
@@ -1707,67 +1722,61 @@ EnvironmentVariable 'WSLENV' = ''
 EnvironmentVariable 'XDG_DATA_DIRS' = '/usr/local/share:/usr/share:/var/lib/snapd/desktop'
 EnvironmentVariable 'XDG_RUNTIME_DIR' = '/mnt/wslg/runtime-dir'
 
-Creating process: dotnet "/mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Roslyn.Worker.exe" 42969 1465
+<Measured> "Load[System.Runtime]"  time=43ms
+Creating process: dotnet "/mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/CommandLineTools/JetBrains.Roslyn.Worker.exe" 33705 2185
 Creating protocol model...
-Process 1597 started
+Process 2318 started
 Wait for protocol model...
 Initialize monitor, enabled = True
 Ready -> False Caller=Initialize: Initialized=True RoslynDisabled=False
 PendingOperations: PendingAnalyzerReferences: ProjectKey { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0 }
 RecalculateState. inputs. isEnabledInSettings=False, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=Inited
 RecalculateState. newValues. isAvailableValue=False, isReadyValue=True
-<Measured> "Job.AddAssemblies" #assemblies = 161 time=9738ms
+<Measured> "Job.AddAssemblies" #assemblies = 161 time=10669ms
 Set new reloading state False. tracker 
 SetNewState. isAvailableValue=False, isReadyValue=True
-All threads are busy. Adding new thread to the pool
-Short Tasks: starting executor JetPool(S) #30
-Thread 'JetPool(S) #30' started execution in unit 'Short Tasks'. #allExecutors=30, #freeExecutors=0
 [Caches] <APC.Load> 'BuildScriptCache' --- Started ---
-[Caches] <APC.Load> 'FileDependencies' --- Started ---
 <FileImages.Load>
+[Caches] <APC.Load> 'FileDependencies' --- Started ---
 [Caches] <APC.Load> 'FileDependencies' --- Finished - OK ---
 [Caches] <APC.Load> 'BuildScriptCache' --- Finished - OK ---
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, no delay
 <FileImages.AddAllModulesToDirty>
-<Measured> "Job.LoadCache" #caches=42: ClrTodoManager, ContentTrigramIndex, SourcesTrigramIndex, DocumentInfoCache, ModifiedFilesCacheForDaemon, ModifiedFilesCacheForCleanup, BuildScriptCache, GlobalUsingsCache, RecordKeywordParsingAmbiguityCache, RequiredKeywordParsingAmbiguityCache, ConfigFileCache, ConditionalNamesCache, NamedArgumentCache, TargetTypedObjectCreationCache, TopLevelCodeCache, GeneratedFilesCache, InternalsVisibleToCache, SymbolCache, TypeMembersCache, StubTreeNodeCache, AnnotatedEntitiesCache, AssemblyAnnotatedEntitiesCache, XamlAssemblyDeclaredEmbeddedResourcesCache, XamlAssemblyResourcesCache, SolutionResourceCache, MvcCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperCache, RazorTagHelperDataCache, RazorInheritsCache, RazorInjectionsCache, RazorNamespaceCache, RazorNamespaceImportsCache, HasSourceFileMapCache, TsFileConfigScopesCache, JavaScriptDependentFilesCache, JavaScriptTypeCacheMaintainer, MvcElementsCache, RazorTagHelperCacheCache, FileImages time=71ms
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, no delay
+<Measured> "Job.LoadCache" #caches=42: ClrTodoManager, ContentTrigramIndex, SourcesTrigramIndex, DocumentInfoCache, ModifiedFilesCacheForDaemon, ModifiedFilesCacheForCleanup, BuildScriptCache, GlobalUsingsCache, RecordKeywordParsingAmbiguityCache, RequiredKeywordParsingAmbiguityCache, ConfigFileCache, ConditionalNamesCache, NamedArgumentCache, TargetTypedObjectCreationCache, TopLevelCodeCache, GeneratedFilesCache, InternalsVisibleToCache, SymbolCache, TypeMembersCache, StubTreeNodeCache, AnnotatedEntitiesCache, AssemblyAnnotatedEntitiesCache, XamlAssemblyDeclaredEmbeddedResourcesCache, XamlAssemblyResourcesCache, SolutionResourceCache, MvcCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperCache, RazorTagHelperDataCache, RazorInheritsCache, RazorInjectionsCache, RazorNamespaceCache, RazorNamespaceImportsCache, HasSourceFileMapCache, TsFileConfigScopesCache, JavaScriptDependentFilesCache, JavaScriptTypeCacheMaintainer, MvcElementsCache, RazorTagHelperCacheCache, FileImages time=88ms
 Sid 703411027: 'NuGetContentFileStorage-v02'
 All files to update: 0, total files: 5, total modules: 8
-<Measured> "Job.UpdateAllProjectFiles"  time=45ms
-All threads are busy. Adding new thread to the pool
-Short Tasks: starting executor JetPool(S) #31
-Thread 'JetPool(S) #31' started execution in unit 'Short Tasks'. #allExecutors=31, #freeExecutors=25
+<Measured> "Job.UpdateAllProjectFiles"  time=31ms
 <FileImages.Save>
 [Caches] <APC.Save> 'BuildScriptCache' --- Started ---
 [Caches] <APC.Save> 'FileDependencies' --- Started ---
 [Caches] <APC.Save> 'FileDependencies' --- Finished ---
 [Caches] <APC.Save> 'BuildScriptCache' --- Finished ---
 <Measured> "Job.SaveCaches" #caches=42: ClrTodoManager, ContentTrigramIndex, SourcesTrigramIndex, DocumentInfoCache, ModifiedFilesCacheForDaemon, ModifiedFilesCacheForCleanup, BuildScriptCache, GlobalUsingsCache, RecordKeywordParsingAmbiguityCache, RequiredKeywordParsingAmbiguityCache, ConfigFileCache, ConditionalNamesCache, NamedArgumentCache, TargetTypedObjectCreationCache, TopLevelCodeCache, GeneratedFilesCache, InternalsVisibleToCache, SymbolCache, TypeMembersCache, StubTreeNodeCache, AnnotatedEntitiesCache, AssemblyAnnotatedEntitiesCache, XamlAssemblyDeclaredEmbeddedResourcesCache, XamlAssemblyResourcesCache, SolutionResourceCache, MvcCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperCache, RazorTagHelperDataCache, RazorInheritsCache, RazorInjectionsCache, RazorNamespaceCache, RazorNamespaceImportsCache, HasSourceFileMapCache, TsFileConfigScopesCache, JavaScriptDependentFilesCache, JavaScriptTypeCacheMaintainer, MvcElementsCache, RazorTagHelperCacheCache, FileImages time=12ms
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_90438ea4-daec-4616-8ec8-9cbf93b8ae12::Commit, no delay
 OnAlarm: trying to execute
-Commit for (2pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_90438ea4-daec-4616-8ec8-9cbf93b8ae12::Commit]
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_234598c2-be0d-48c8-b73c-b7dce04deb5d::Commit, no delay
+Commit for (1pc)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache]
 Execute after commit actions
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_90438ea4-daec-4616-8ec8-9cbf93b8ae12::Commit
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, no delay
 RESUME :: state=AsyncProcessing
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_ff5725b7-4fee-4f04-9975-8a898d9d4859::Commit, no delay
+OnAlarm: trying to execute
+Commit for (2pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_234598c2-be0d-48c8-b73c-b7dce04deb5d::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache]
+Execute after commit actions
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_234598c2-be0d-48c8-b73c-b7dce04deb5d::Commit
 RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache, no delay
 OnAlarm: trying to execute
-Commit for (2pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_ff5725b7-4fee-4f04-9975-8a898d9d4859::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache]
+Commit for (1pc)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache]
 Execute after commit actions
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MvcControllersProvider_ff5725b7-4fee-4f04-9975-8a898d9d4859::Commit
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_25d59f40-175d-4832-876b-2d189aad1e74::Commit, no delay
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_1b2a2894-b2d8-477f-88d9-f0bc256b58ee::Commit, no delay
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_6ec48b26-0305-407c-8380-c39f4ba2a7ba::Commit, no delay
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_eded8c0b-5631-4ddd-966f-c5750c7b2b74::Commit, no delay
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_2810c642-87bc-4a02-8959-238b396d57cf::Commit, no delay
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_786ddf2c-bb9a-4363-854f-b8cd92a4026b::Commit, no delay
+RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_14aefec4-9460-45e3-871b-3a4e16dcea80::Commit, no delay
 OnAlarm: trying to execute
-Commit for (3pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_25d59f40-175d-4832-876b-2d189aad1e74::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_1b2a2894-b2d8-477f-88d9-f0bc256b58ee::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_6ec48b26-0305-407c-8380-c39f4ba2a7ba::Commit]
+Commit for (4pcs)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_eded8c0b-5631-4ddd-966f-c5750c7b2b74::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_2810c642-87bc-4a02-8959-238b396d57cf::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_786ddf2c-bb9a-4363-854f-b8cd92a4026b::Commit, JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_14aefec4-9460-45e3-871b-3a4e16dcea80::Commit]
 Execute after commit actions
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_25d59f40-175d-4832-876b-2d189aad1e74::Commit
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_1b2a2894-b2d8-477f-88d9-f0bc256b58ee::Commit
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_6ec48b26-0305-407c-8380-c39f4ba2a7ba::Commit
-RequestCommit for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_b62af52d-b790-46ab-a531-a3e04d67e6a7::Commit, no delay
-OnAlarm: trying to execute
-Commit for (1pc)[JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_b62af52d-b790-46ab-a531-a3e04d67e6a7::Commit]
-Execute after commit actions
-DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_b62af52d-b790-46ab-a531-a3e04d67e6a7::Commit
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::RoutingConventionsProvider_eded8c0b-5631-4ddd-966f-c5750c7b2b74::Commit
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiDeclarationsProvider_2810c642-87bc-4a02-8959-238b396d57cf::Commit
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::MinimalApiGroupDeclarationsProvider_786ddf2c-bb9a-4363-854f-b8cd92a4026b::Commit
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::SourceRoutingAttributesProvider_14aefec4-9460-45e3-871b-3a4e16dcea80::Commit
 Start: Processing queued items in 'JsonApiDotNetCore'
 Roslyn source generators were initialized for '/mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj' [net6.0]
 Pending Project handled ProjectKey { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0 }. Analyser References: AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /usr/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll }, AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /usr/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.NetAnalyzers.dll }, AnalyzerReferenceInfo { ProjectFile = /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/src/JsonApiDotNetCore/JsonApiDotNetCore.csproj, TargetFrameworkId = net6.0, AnalyzerReference = /home/kaw/.nuget/packages/microsoft.netcore.app.ref/6.0.11/analyzers/dotnet/cs/System.Text.Json.SourceGeneration.dll }
@@ -1777,19 +1786,19 @@ Build data for /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCor
 Finish: Processing queued items in 'JsonApiDotNetCore'
 Ready -> True Caller=OnOperation: Initialized=True RoslynDisabled=False
 PendingOperations: PendingAnalyzerReferences: 
-Kill process 1597
+Kill process 2318
 Initialize monitor, enabled = False
 Caches are Idle
 Documents are committed
-<Measured> "InspectCode.OpenSolutionAndBuildCaches"  time=18962ms
+<Measured> "InspectCode.OpenSolutionAndBuildCaches"  time=20747ms
 Forbid write locks and sync points
 Collecting inspection scope
 Will inspect entire solution
 Inspection scope collected
 Collecting files in specified projects.
 PAUSE ('Disconnected') :: state=AsyncProcessing
-Process 1597 killed
-Process 1597 lifetime terminated. Setting null.
+Process 2318 killed
+Process 2318 lifetime terminated. Setting null.
 Solution-wide analysis is ENABLED
 Starting SWEA
 Analysis service was not loaded. Let's do it now!
@@ -1797,7 +1806,7 @@ Analysis service was not loaded. Let's do it now!
 <DependencyManager.Load> InvalidatedCount: 0
 SWEA: Start analyzing changes
 [SWEA] Loading completed
-<Measured> "SWEA.Load"  time=31ms
+<Measured> "SWEA.Load"  time=47ms
 Analysis service loaded
 Analyzing files
 <GetFilesToAnalyze>
@@ -1813,27 +1822,27 @@ FlushProjectModelChanges: New=0, Modified=0, Removed=0
 <GetFilesToAnalyze> QuickFiles=2 SlowFiles=0
 Analyzing files
 
-Analyzing JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
-
 Analyzing analysislevel_6_default.editorconfig
-Starting invisible analysis of file JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+
+Analyzing JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
 Starting invisible analysis of file analysislevel_6_default.editorconfig
---Skipped-- analysis of file: 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/d:obj/d:Release/d:net6.0/f:JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+Starting invisible analysis of file JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
 --Skipped-- analysis of file: 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/f:analysislevel_6_default.editorconfig/l:..?..?..?..?..?..?..?..?..?usr?share?dotnet?sdk?7.0.100?Sdks?Microsoft.NET.Sdk?analyzers?build?config?analysislevel_6_default.editorconfig
+--Skipped-- analysis of file: 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/d:obj/d:Release/d:net6.0/f:JsonApiDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
 All files analyzed
 Completed = True
-<Measured> "SWEA.FullCycle"  time=80ms
-<Measured> "SWEA.FirstCycle"  time=81ms
-Thread RunFindCodeIssues:96 pwned.
-Inspecting JsonApiDotNetCore.csproj
+<Measured> "SWEA.FullCycle"  time=94ms
+<Measured> "SWEA.FirstCycle"  time=95ms
+Thread RunFindCodeIssues:97 pwned.
 Inspecting ArrayFactory.cs
+Inspecting JsonApiDotNetCore.csproj
 DaemonStages created
 Created a CatalogComponentSource for container “Container: DaemonStages”. To trace eligible components set, enable TRACE level for this log category (JetBrains.Application.Extensibility.CatalogComponentSource).
-<Finish> "ComponentContainer.DaemonStages" time=0ms. Total: 0.0099ms
+<Finish> "ComponentContainer.DaemonStages" time=0ms. Total: 0.0167ms
 <Measured> "ComponentContainer[DaemonStages]"  value=0ms
-<Measured> "Compose: DaemonStages"  time=0ms
-[Daemon] Daemon process 25712894 started on file 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/f:ArrayFactory.cs, kind = GLOBAL_WARNINGS
-[Daemon] Daemon process 25712894 finished on file 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/f:ArrayFactory.cs 
+<Measured> "Compose: DaemonStages"  time=1ms
+[Daemon] Daemon process 49659948 started on file 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/f:ArrayFactory.cs, kind = GLOBAL_WARNINGS
+[Daemon] Daemon process 49659948 finished on file 21d27239-138d-4604-8e49-dcbe41bce4c8(JsonApiDotNetCore)-BBBA00DA[net6.0]/f:ArrayFactory.cs 
 Writing inspection report to /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/my_temp
 Inspection report was written to /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/my_temp
 Closing solution ProjectFileImpl(Path : JsonApiDotNetCore.sln)
@@ -1841,17 +1850,18 @@ Closing solution...
 Before close solution instance
 Clear tasks
 Close solution instance
-MsBuild [ProjectModel] Process 1503: Starting shutdown process, connection lifetime was terminated...
-MsBuild [ProjectModel] Process 1503: Wait for process exit...
+MsBuild [ProjectModel] Process 2223: Starting shutdown process, connection lifetime was terminated...
+MsBuild [ProjectModel] Process 2223: Wait for process exit...
 PAUSE ('Disconnected') :: state=AsyncProcessing
 Fetched the JET_DEBUG_NO_CLEANUP flag on whether to leave temporary entities behind for diag. Is set? False!
-MsBuild [ProjectModel] Process 1503: External process was exited successfully
+MsBuild [ProjectModel] Process 2223: External process was exited successfully
 [SWEA] Unloading started
 [SWEA] Deinitialization started
 [SWEA] Deinitialization completed
 <FileImages.Release>
 Removed from active caches: FileImages
 [SWEA] Unloading completed
+DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache
 DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache
 DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache
 DropRequest for JetBrains.ReSharper.Psi.RetryingAsyncCommitClient::BlazorEventHandlersCache
@@ -1879,15 +1889,15 @@ Stop IgnoreChangesInFolder /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/Json
 Set nulls
 Solution is closed
 Solution /mnt/c/Projects/tasks/roslyn/RSRP-488628AppVeyor/JsonApiDotNetCore-update-resharper/JsonApiDotNetCore.sln closed
-SettingsChangeDispatch: done dispatching 25 unique requests in 214 ms.
 Main method JetBrains.CommandLine.InspectCode.Unattended.Console.InspectCodeProductMain::Main returned exit code 0.
-SettingsChangeDispatch: now dispatching 21 unique requests.
+SettingsChangeDispatch: done dispatching 25 unique requests in 235 ms.
 Done executing all main methods. Shutting down the app now.
+SettingsChangeDispatch: now dispatching 21 unique requests.
 SettingsChangeDispatch: done dispatching 21 unique requests in 0 ms.
-SettingsChangeDispatch: now dispatching 0 unique requests.
 Received ShutdownRequested for Success.
-SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
+SettingsChangeDispatch: now dispatching 0 unique requests.
 Processing deferred ShutdownRequested for Success.
+SettingsChangeDispatch: done dispatching 0 unique requests in 0 ms.
 Unpublishing the Shell container before decomposing it.
 InspectCode Wave 223
 JetBrains Inspect Code 2022.3 EAP 9 D Build 223.0.20221208.0-eap09d
